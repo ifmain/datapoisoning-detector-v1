@@ -1,54 +1,40 @@
 {
-  "model": "large",
+  "variant": "large",
+  "benchmark": "CAT CelebA-HQ internal 2000",
   "source": "https://www.usenix.org/system/files/usenixsecurity25-foerster.pdf",
-  "rows": [
-    {
-      "metric": "Detection recall",
-      "protection": "nightshade",
-      "ours": 97.91666666666666,
-      "lightshed": 96.55
-    },
-    {
-      "metric": "Detection recall",
-      "protection": "glaze",
-      "ours": 95.45454545454545,
-      "lightshed": 97.26
-    },
-    {
-      "metric": "Detection recall",
-      "protection": "mist",
-      "ours": 100.0,
-      "lightshed": 99.84
-    },
-    {
-      "metric": "Detection recall",
-      "protection": "metacloak",
-      "ours": 100.0,
-      "lightshed": 91.77
-    },
-    {
-      "metric": "Clean-image specificity",
-      "protection": "nightshade",
-      "ours": 99.11290322580645,
-      "lightshed": 92.86
-    },
-    {
-      "metric": "Clean-image specificity",
-      "protection": "glaze",
-      "ours": 99.11290322580645,
-      "lightshed": 97.7
-    },
-    {
-      "metric": "Clean-image specificity",
-      "protection": "mist",
-      "ours": 99.11290322580645,
-      "lightshed": 100
-    },
-    {
-      "metric": "Clean-image specificity",
-      "protection": "metacloak",
-      "ours": 99.11290322580645,
-      "lightshed": 84.32
+  "ours": {
+    "threshold": -1.5164062976837156,
+    "tp": 1405,
+    "fn": 395,
+    "fp": 0,
+    "tn": 200,
+    "recall": 0.7805555555555556,
+    "specificity": 1.0,
+    "accuracy": 0.8025,
+    "per_method": {
+      "advdm+": 200,
+      "advdm-": 200,
+      "anti-dreambooth": 6,
+      "glaze2": 198,
+      "metacloak": 1,
+      "mist": 200,
+      "sds+": 200,
+      "sds-": 200,
+      "sdsT5": 200
     }
-  ]
+  },
+  "published_reference": {
+    "glaze2": [
+      97.26,
+      97.7
+    ],
+    "metacloak": [
+      91.77,
+      84.32
+    ],
+    "mist": [
+      99.84,
+      100.0
+    ]
+  }
 }
