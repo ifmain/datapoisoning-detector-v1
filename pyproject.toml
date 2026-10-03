@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "datapoisoning-detector-v1"
+version = "1.0.0"
+description = "Multi-level FLUX VAE features for detecting protective image perturbations"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+authors = [{name = "ifmain"}]
+dependencies = ["torch>=2.5", "diffusers>=0.39.0", "transformers", "accelerate", "safetensors", "huggingface-hub", "numpy", "Pillow", "scikit-learn"]
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.9"]
+
+[project.urls]
+Repository = "https://github.com/ifmain/datapoisoning-detector-v1"
+Weights = "https://huggingface.co/ifmain/datapoisoning-detector-v1-large"
+
+[tool.setuptools.packages.find]
+where = ["src"]

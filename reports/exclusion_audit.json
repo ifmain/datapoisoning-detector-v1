@@ -1,0 +1,124 @@
+{
+  "excluded_dataset": "CelebA-HQ",
+  "architecture": "encoder blocks 1, 2, 3 plus posterior mean",
+  "old_detector_or_teacher_used": false,
+  "retained_rights_status": "Other sources retained at user direction; not a blanket rights clearance",
+  "splits": {
+    "train": {
+      "before": 23064,
+      "removed": 1600,
+      "after": 21464,
+      "labels": {
+        "0": 19308,
+        "1": 2156
+      },
+      "methods": {
+        "clean": 19308,
+        "glaze_local": 13,
+        "glaze": 85,
+        "nightshade_glaze": 31,
+        "nightshade": 31,
+        "antidb": 54,
+        "mist": 266,
+        "advdm+": 212,
+        "advdm-": 212,
+        "anti-dreambooth": 212,
+        "glaze2": 212,
+        "metacloak": 192,
+        "sds+": 212,
+        "sds-": 212,
+        "sdsT5": 212
+      },
+      "sources": {
+        "local_glaze": 166,
+        "xai": 124,
+        "robust": 216,
+        "cat": 2120,
+        "helen": 66,
+        "openimages": 17971,
+        "diffvax": 801
+      }
+    },
+    "validation": {
+      "before": 1377,
+      "removed": 120,
+      "after": 1257,
+      "labels": {
+        "0": 1156,
+        "1": 101
+      },
+      "methods": {
+        "clean": 1156,
+        "glaze_local": 5,
+        "glaze": 20,
+        "nightshade_glaze": 2,
+        "nightshade": 2,
+        "antidb": 18,
+        "mist": 22,
+        "advdm+": 4,
+        "advdm-": 4,
+        "anti-dreambooth": 4,
+        "glaze2": 4,
+        "metacloak": 4,
+        "sds+": 4,
+        "sds-": 4,
+        "sdsT5": 4
+      },
+      "sources": {
+        "local_glaze": 28,
+        "xai": 8,
+        "robust": 72,
+        "cat": 40,
+        "helen": 9,
+        "openimages": 997,
+        "diffvax": 103
+      }
+    },
+    "test": {
+      "before": 1726,
+      "removed": 280,
+      "after": 1446,
+      "labels": {
+        "0": 1240,
+        "1": 206
+      },
+      "methods": {
+        "clean": 1240,
+        "glaze_local": 2,
+        "glaze": 66,
+        "nightshade": 48,
+        "nightshade_glaze": 18,
+        "antidb": 18,
+        "mist": 22,
+        "advdm+": 4,
+        "advdm-": 4,
+        "anti-dreambooth": 4,
+        "glaze2": 4,
+        "metacloak": 4,
+        "sds+": 4,
+        "sds-": 4,
+        "sdsT5": 4
+      },
+      "sources": {
+        "local_glaze": 26,
+        "local_test": 14,
+        "xai": 162,
+        "robust": 72,
+        "cat": 40,
+        "helen": 5,
+        "openimages": 1031,
+        "diffvax": 96
+      }
+    }
+  },
+  "patches": {
+    "before": 57705,
+    "after": 45865,
+    "paired_clean_after": 17248
+  },
+  "manifest_sha256": {
+    "train": "eaa6f461b2474357d27bba68b888dff1d5c48a63426f19a10889c93ddf252137",
+    "validation": "e0b927d9c7c33cd75aa09513d439f92080c1187352a3d483c82c7c757e2b5488",
+    "test": "241b041c2510e54b6af9c8dd7624a4d04aa81437f7f791150644fcaecd0b4670"
+  }
+}

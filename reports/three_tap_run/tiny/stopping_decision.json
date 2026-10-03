@@ -1,0 +1,6 @@
+{
+  "reason": "no_recovery_after_two_additional_epochs",
+  "completed_epoch": 14,
+  "stale_epochs": 3,
+  "recovery_epochs": 2
+}

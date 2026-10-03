@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you find our work helpful, feel free to give us a cite."
+title: "DataPoisoning Detector v1"
+authors:
+  - name: "ifmain"
+version: "1.0.0"
+date-released: "2026-10-03"
+url: "https://github.com/ifmain/datapoisoning-detector-v1"

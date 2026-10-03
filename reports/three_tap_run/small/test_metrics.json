@@ -1,0 +1,71 @@
+{
+  "threshold": -0.7234374880790709,
+  "tp": 202,
+  "fp": 12,
+  "fn": 4,
+  "tn": 1228,
+  "recall": 0.9805825242718447,
+  "fpr": 0.00967741935483871,
+  "precision": 0.9439252336448598,
+  "accuracy": 0.9889349930843707,
+  "roc_auc": 0.999009552145318,
+  "average_precision": 0.9950348065690398,
+  "per_method": {
+    "advdm+": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "advdm-": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "anti-dreambooth": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "antidb": {
+      "n": 18,
+      "recall": 1.0
+    },
+    "glaze": {
+      "n": 66,
+      "recall": 0.9545454545454546
+    },
+    "glaze2": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "glaze_local": {
+      "n": 2,
+      "recall": 1.0
+    },
+    "metacloak": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "mist": {
+      "n": 22,
+      "recall": 1.0
+    },
+    "nightshade": {
+      "n": 48,
+      "recall": 1.0
+    },
+    "nightshade_glaze": {
+      "n": 18,
+      "recall": 0.9444444444444444
+    },
+    "sds+": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "sds-": {
+      "n": 4,
+      "recall": 1.0
+    },
+    "sdsT5": {
+      "n": 4,
+      "recall": 1.0
+    }
+  }
+}

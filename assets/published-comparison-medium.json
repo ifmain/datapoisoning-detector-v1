@@ -1,0 +1,54 @@
+{
+  "model": "medium",
+  "source": "https://www.usenix.org/system/files/usenixsecurity25-foerster.pdf",
+  "rows": [
+    {
+      "metric": "Detection recall",
+      "protection": "nightshade",
+      "ours": 95.83333333333334,
+      "lightshed": 96.55
+    },
+    {
+      "metric": "Detection recall",
+      "protection": "glaze",
+      "ours": 93.93939393939394,
+      "lightshed": 97.26
+    },
+    {
+      "metric": "Detection recall",
+      "protection": "mist",
+      "ours": 100.0,
+      "lightshed": 99.84
+    },
+    {
+      "metric": "Detection recall",
+      "protection": "metacloak",
+      "ours": 100.0,
+      "lightshed": 91.77
+    },
+    {
+      "metric": "Clean-image specificity",
+      "protection": "nightshade",
+      "ours": 99.2741935483871,
+      "lightshed": 92.86
+    },
+    {
+      "metric": "Clean-image specificity",
+      "protection": "glaze",
+      "ours": 99.2741935483871,
+      "lightshed": 97.7
+    },
+    {
+      "metric": "Clean-image specificity",
+      "protection": "mist",
+      "ours": 99.2741935483871,
+      "lightshed": 100
+    },
+    {
+      "metric": "Clean-image specificity",
+      "protection": "metacloak",
+      "ours": 99.2741935483871,
+      "lightshed": 84.32
+    }
+  ]
+}

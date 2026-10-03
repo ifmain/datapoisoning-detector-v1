@@ -1,0 +1,8678 @@
+[
+  {
+    "pair_id": "712b0ead5c69842d4a9b",
+    "label": 0,
+    "method": "clean",
+    "score": -3.206249952316284
+  },
+  {
+    "pair_id": "bab26735a4d0eac4ca38",
+    "label": 0,
+    "method": "clean",
+    "score": -6.409375190734863
+  },
+  {
+    "pair_id": "8982c7fee1481a50e285",
+    "label": 0,
+    "method": "clean",
+    "score": -6.356250286102295
+  },
+  {
+    "pair_id": "f5233a467aba492a7583",
+    "label": 0,
+    "method": "clean",
+    "score": -4.426562786102295
+  },
+  {
+    "pair_id": "65cba6dc80bb7ddaa699",
+    "label": 0,
+    "method": "clean",
+    "score": -5.271874904632568
+  },
+  {
+    "pair_id": "55958c6129384b9d584a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.318749904632568
+  },
+  {
+    "pair_id": "749f22cb4d150b44263c",
+    "label": 0,
+    "method": "clean",
+    "score": -6.599999904632568
+  },
+  {
+    "pair_id": "ac0d396a8aba90e66e0d",
+    "label": 0,
+    "method": "clean",
+    "score": -6.34375
+  },
+  {
+    "pair_id": "1eb6065cc2a2622509cc",
+    "label": 0,
+    "method": "clean",
+    "score": -5.581250190734863
+  },
+  {
+    "pair_id": "eba1e4186f824c42110d",
+    "label": 0,
+    "method": "clean",
+    "score": -6.46875
+  },
+  {
+    "pair_id": "89e3944133689ac3fb90",
+    "label": 0,
+    "method": "clean",
+    "score": -6.787499904632568
+  },
+  {
+    "pair_id": "252bc920b97d768af75d",
+    "label": 0,
+    "method": "clean",
+    "score": -2.684375047683716
+  },
+  {
+    "pair_id": "fedfcae1041cc1f90442",
+    "label": 0,
+    "method": "clean",
+    "score": -6.474999904632568
+  },
+  {
+    "pair_id": "df21f8caab9ae105f128",
+    "label": 0,
+    "method": "clean",
+    "score": -7.868750095367432
+  },
+  {
+    "pair_id": "f2ca549a0b30f3d53190",
+    "label": 0,
+    "method": "clean",
+    "score": -6.181250095367432
+  },
+  {
+    "pair_id": "cd5243c58d6259a9aa72",
+    "label": 0,
+    "method": "clean",
+    "score": -6.243750095367432
+  },
+  {
+    "pair_id": "5d761e572c70bb55c44d",
+    "label": 0,
+    "method": "clean",
+    "score": -6.75
+  },
+  {
+    "pair_id": "c716eb259c0716b3a36c",
+    "label": 0,
+    "method": "clean",
+    "score": -2.9906251430511475
+  },
+  {
+    "pair_id": "0aa3652df3e4f6528163",
+    "label": 0,
+    "method": "clean",
+    "score": -5.900000095367432
+  },
+  {
+    "pair_id": "3b77f565ea925dfd9e7b",
+    "label": 0,
+    "method": "clean",
+    "score": -6.762500286102295
+  },
+  {
+    "pair_id": "b2baa8e0a03e8b387885",
+    "label": 0,
+    "method": "clean",
+    "score": -5.362500190734863
+  },
+  {
+    "pair_id": "51365f9236e6a6d36a3c",
+    "label": 0,
+    "method": "clean",
+    "score": -6.606250286102295
+  },
+  {
+    "pair_id": "fc658c40a743a6457b6a",
+    "label": 0,
+    "method": "clean",
+    "score": -4.432812690734863
+  },
+  {
+    "pair_id": "0f41eec78ebed9a5857e",
+    "label": 0,
+    "method": "clean",
+    "score": -4.703125
+  },
+  {
+    "pair_id": "744b9a19b8967eb5a80c",
+    "label": 1,
+    "method": "glaze_local",
+    "score": 1.2703125476837158
+  },
+  {
+    "pair_id": "e9995d95f69511d73419",
+    "label": 1,
+    "method": "glaze_local",
+    "score": -1.404687523841858
+  },
+  {
+    "pair_id": "1ba1c4dffef47ff4aa1f",
+    "label": 0,
+    "method": "clean",
+    "score": -6.362500190734863
+  },
+  {
+    "pair_id": "e8c8c3686e37d47e1bac",
+    "label": 0,
+    "method": "clean",
+    "score": -5.974999904632568
+  },
+  {
+    "pair_id": "0e8f03eadfeb5a911b8e",
+    "label": 0,
+    "method": "clean",
+    "score": -5.240624904632568
+  },
+  {
+    "pair_id": "a73b41326a2a5a29df19",
+    "label": 0,
+    "method": "clean",
+    "score": -4.526562690734863
+  },
+  {
+    "pair_id": "54d8a9301af42c4a0dc8",
+    "label": 0,
+    "method": "clean",
+    "score": -4.683984279632568
+  },
+  {
+    "pair_id": "9172972d258509f24a96",
+    "label": 0,
+    "method": "clean",
+    "score": -4.834374904632568
+  },
+  {
+    "pair_id": "6ba8857bb5ea01b0afd5",
+    "label": 0,
+    "method": "clean",
+    "score": -6.912499904632568
+  },
+  {
+    "pair_id": "7eab46f5561f3ecdb936",
+    "label": 0,
+    "method": "clean",
+    "score": -6.581250190734863
+  },
+  {
+    "pair_id": "e3d66cc87c6e66d4f4e5",
+    "label": 0,
+    "method": "clean",
+    "score": -6.662499904632568
+  },
+  {
+    "pair_id": "4ad47280351a514bb10e",
+    "label": 0,
+    "method": "clean",
+    "score": -5.859375
+  },
+  {
+    "pair_id": "efa3953845ee830bf2b8",
+    "label": 0,
+    "method": "clean",
+    "score": -7.087500095367432
+  },
+  {
+    "pair_id": "342864fd888af7b154bf",
+    "label": 0,
+    "method": "clean",
+    "score": -7.412499904632568
+  },
+  {
+    "pair_id": "1f8f38f72c2e38070310",
+    "label": 0,
+    "method": "clean",
+    "score": -7.175000190734863
+  },
+  {
+    "pair_id": "aae4289f3b7cca18af54",
+    "label": 0,
+    "method": "clean",
+    "score": -7.956250190734863
+  },
+  {
+    "pair_id": "240aebd108fc5585dd09",
+    "label": 0,
+    "method": "clean",
+    "score": -0.09609375149011612
+  },
+  {
+    "pair_id": "073f0d53b9b75c6d7fda",
+    "label": 1,
+    "method": "glaze",
+    "score": 3.1656250953674316
+  },
+  {
+    "pair_id": "76c0e0e35549e67b993c",
+    "label": 1,
+    "method": "nightshade",
+    "score": 7.493750095367432
+  },
+  {
+    "pair_id": "b4081656b0c85d654c97",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 5.729687690734863
+  },
+  {
+    "pair_id": "eff38f8e9949475c6af0",
+    "label": 0,
+    "method": "clean",
+    "score": -4.995507717132568
+  },
+  {
+    "pair_id": "0bd6bb978f023df30018",
+    "label": 1,
+    "method": "glaze",
+    "score": -7.737500190734863
+  },
+  {
+    "pair_id": "5c6f47bd21d0be4c1394",
+    "label": 1,
+    "method": "nightshade",
+    "score": -4.84375
+  },
+  {
+    "pair_id": "92f9e01a6a18b98f91f6",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": -7.650000095367432
+  },
+  {
+    "pair_id": "e0bea10adf4ab9de152d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.459375381469727
+  },
+  {
+    "pair_id": "a2d62e1e10b4fb09fa9e",
+    "label": 1,
+    "method": "glaze",
+    "score": 7.059375286102295
+  },
+  {
+    "pair_id": "c33b9562a99ae29f5ade",
+    "label": 1,
+    "method": "nightshade",
+    "score": 7.859375
+  },
+  {
+    "pair_id": "b726d8a43611e910f9b5",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 8.90625
+  },
+  {
+    "pair_id": "fdf390873fb6f1903ccf",
+    "label": 0,
+    "method": "clean",
+    "score": -9.375
+  },
+  {
+    "pair_id": "523c66505868494809e1",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.387499809265137
+  },
+  {
+    "pair_id": "273cfe3b8ff5c9d9ec84",
+    "label": 1,
+    "method": "nightshade",
+    "score": 9.550000190734863
+  },
+  {
+    "pair_id": "9d57f565f0a445fdff6b",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 10.387499809265137
+  },
+  {
+    "pair_id": "5987cc27fcb732fe1952",
+    "label": 0,
+    "method": "clean",
+    "score": -9.850000381469727
+  },
+  {
+    "pair_id": "43c23f138266346e8b38",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.456250190734863
+  },
+  {
+    "pair_id": "f6163357a6351df3cb2f",
+    "label": 1,
+    "method": "nightshade",
+    "score": 8.58750057220459
+  },
+  {
+    "pair_id": "02ab8be50434eb64f5b0",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.300000190734863
+  },
+  {
+    "pair_id": "879a78639e9e09bfdb6a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "0350de4d56b9841b10ad",
+    "label": 1,
+    "method": "glaze",
+    "score": 9.050000190734863
+  },
+  {
+    "pair_id": "5701517c37e9eb9f8d6d",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.02500057220459
+  },
+  {
+    "pair_id": "f2fd1787502db437bf7f",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.112500190734863
+  },
+  {
+    "pair_id": "bfca3f67792e310fb18f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "18e9b65607ce67537704",
+    "label": 1,
+    "method": "glaze",
+    "score": 6.974999904632568
+  },
+  {
+    "pair_id": "6255230aa11bd845153a",
+    "label": 1,
+    "method": "nightshade",
+    "score": 9.5625
+  },
+  {
+    "pair_id": "eeda7dd2be4919f355bc",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 5.637500286102295
+  },
+  {
+    "pair_id": "dc2be3b07b2e71dcc76b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.925000190734863
+  },
+  {
+    "pair_id": "b3caa37068c584fba4fe",
+    "label": 1,
+    "method": "glaze",
+    "score": -5.389062404632568
+  },
+  {
+    "pair_id": "487ac0a770ae0e9a701c",
+    "label": 1,
+    "method": "nightshade",
+    "score": -0.44062501192092896
+  },
+  {
+    "pair_id": "20788df3b87a4cfb51be",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 0.887499988079071
+  },
+  {
+    "pair_id": "1c8f9c210c8546413c5e",
+    "label": 0,
+    "method": "clean",
+    "score": -6.940625190734863
+  },
+  {
+    "pair_id": "3fc426ccba148052ac8e",
+    "label": 1,
+    "method": "glaze",
+    "score": -6.25
+  },
+  {
+    "pair_id": "b6cd1eb221d662dfeb1b",
+    "label": 1,
+    "method": "nightshade",
+    "score": -2.146777391433716
+  },
+  {
+    "pair_id": "710bfb98444aa3e12bad",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": -1.3781250715255737
+  },
+  {
+    "pair_id": "66ef8b24d99f97595836",
+    "label": 0,
+    "method": "clean",
+    "score": -8.625
+  },
+  {
+    "pair_id": "4d3fe4c994055b139037",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.27500057220459
+  },
+  {
+    "pair_id": "348742a9034f3e0465cd",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 9.925000190734863
+  },
+  {
+    "pair_id": "15f06f606ef13c8a821f",
+    "label": 1,
+    "method": "nightshade",
+    "score": 9.487500190734863
+  },
+  {
+    "pair_id": "6abc3d59c6315e7f133f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.425000190734863
+  },
+  {
+    "pair_id": "6565ad8a0e7456d8815e",
+    "label": 1,
+    "method": "glaze",
+    "score": 9.824999809265137
+  },
+  {
+    "pair_id": "76f90f50c82d97028cbd",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 9.512499809265137
+  },
+  {
+    "pair_id": "c5ca0191d64736c5d0e6",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.131250381469727
+  },
+  {
+    "pair_id": "e9295c4c98fc56a893b5",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "9c02fa69c75a297499f6",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.375
+  },
+  {
+    "pair_id": "4d97fd676bf8492c5a1b",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.512499809265137
+  },
+  {
+    "pair_id": "7300680dd23caa562711",
+    "label": 1,
+    "method": "nightshade",
+    "score": 8.78125
+  },
+  {
+    "pair_id": "7d205f86974168f9849b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.600000381469727
+  },
+  {
+    "pair_id": "5e443c5105910753cea4",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.58750057220459
+  },
+  {
+    "pair_id": "e6fb150ff1c670d9d4a1",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.550000190734863
+  },
+  {
+    "pair_id": "79d7a813ffb852cd27c3",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.4375
+  },
+  {
+    "pair_id": "96d2d473fb7a63a2da3d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "2ba1385bad7891ec881b",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.637499809265137
+  },
+  {
+    "pair_id": "cf634f773d586a656bea",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.537500381469727
+  },
+  {
+    "pair_id": "384b9974aa51d73ab9a4",
+    "label": 1,
+    "method": "nightshade",
+    "score": 9.0
+  },
+  {
+    "pair_id": "3bb73181d9537fa87fd2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.574999809265137
+  },
+  {
+    "pair_id": "aac23eb314a97e4878d5",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.699999809265137
+  },
+  {
+    "pair_id": "eac2e91bb7e3268d668b",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.574999809265137
+  },
+  {
+    "pair_id": "9a339d0891e573f8f430",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.100000381469727
+  },
+  {
+    "pair_id": "908ab173f27d97569530",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.4375
+  },
+  {
+    "pair_id": "288fd67f25a5287efac2",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 11.475000381469727
+  },
+  {
+    "pair_id": "ebc1843eba7732519aa9",
+    "label": 1,
+    "method": "nightshade_glaze",
+    "score": 10.550000190734863
+  },
+  {
+    "pair_id": "0005c6af171282e055f0",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.762499809265137
+  },
+  {
+    "pair_id": "f9a5f570d9330e755b04",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.25
+  },
+  {
+    "pair_id": "e2dd8b6453eef0339533",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.453125
+  },
+  {
+    "pair_id": "c83c82596cdbb3431f4c",
+    "label": 1,
+    "method": "nightshade",
+    "score": 6.375
+  },
+  {
+    "pair_id": "ad97d024db397c0b5232",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.612500190734863
+  },
+  {
+    "pair_id": "f2bc463c27d912f44704",
+    "label": 1,
+    "method": "nightshade",
+    "score": 8.887499809265137
+  },
+  {
+    "pair_id": "bd2abb80edab039c3cb6",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.737500190734863
+  },
+  {
+    "pair_id": "2e7ef5d22662d301faaf",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.362500190734863
+  },
+  {
+    "pair_id": "d0a1decff63ad1095de9",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.637499809265137
+  },
+  {
+    "pair_id": "872dd7dfb30445f8fdb3",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.1875
+  },
+  {
+    "pair_id": "af3f6495b1ef534433ed",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.3125
+  },
+  {
+    "pair_id": "95ef732aedcd49583fb5",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.100000381469727
+  },
+  {
+    "pair_id": "c77856e724d8c316b1fe",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.862500190734863
+  },
+  {
+    "pair_id": "4ce4a961fe37cd32e867",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.21875
+  },
+  {
+    "pair_id": "3fec9bb9928a5f635e83",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "ee480469f52821c1bd64",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.5625
+  },
+  {
+    "pair_id": "b258bab0a982332689b8",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.800000190734863
+  },
+  {
+    "pair_id": "7b67787292b7600d2e2d",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.375
+  },
+  {
+    "pair_id": "bde4f292df712dc088fa",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.699999809265137
+  },
+  {
+    "pair_id": "567c5c57194e89c550fb",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.925000190734863
+  },
+  {
+    "pair_id": "a5f1ff10f85ee593c534",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.800000190734863
+  },
+  {
+    "pair_id": "649878972a9d8599eff3",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.625
+  },
+  {
+    "pair_id": "80b4ff593a020b07d8d6",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.699999809265137
+  },
+  {
+    "pair_id": "bb491bbb8b4b2aaf5333",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.537500381469727
+  },
+  {
+    "pair_id": "f44bf921286c6584ab49",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.850000381469727
+  },
+  {
+    "pair_id": "b677e46b9f11369789d2",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.699999809265137
+  },
+  {
+    "pair_id": "557c008a072368d30c1c",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.850000381469727
+  },
+  {
+    "pair_id": "36864fb9692bddb1bc70",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.887499809265137
+  },
+  {
+    "pair_id": "b2ade102f5a3d90f7e5c",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.787500381469727
+  },
+  {
+    "pair_id": "03852bd3ea444618e09b",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.33750057220459
+  },
+  {
+    "pair_id": "c20f668c300d4bff75b1",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "d71b1cfd7aa82c776f95",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.550000190734863
+  },
+  {
+    "pair_id": "a820af67daae84ab0b1e",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.824999809265137
+  },
+  {
+    "pair_id": "58bbea6a3543573701b8",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.6875
+  },
+  {
+    "pair_id": "cfe8bbd78ed40f56f8b2",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.574999809265137
+  },
+  {
+    "pair_id": "6e3eeb5aafb5df03fde2",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.412500381469727
+  },
+  {
+    "pair_id": "9c7d906549ff342d56ea",
+    "label": 1,
+    "method": "glaze",
+    "score": 7.693749904632568
+  },
+  {
+    "pair_id": "6d900df9121a37dd4fa0",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.550000190734863
+  },
+  {
+    "pair_id": "e72f7849b20863eea568",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.6875
+  },
+  {
+    "pair_id": "5448f797ed4e3f04ea94",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.02500057220459
+  },
+  {
+    "pair_id": "788d7e12ec65e51f43fc",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.46250057220459
+  },
+  {
+    "pair_id": "5332de61c2df47b81cb5",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.21250057220459
+  },
+  {
+    "pair_id": "a12f9a84f672406a98db",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.800000190734863
+  },
+  {
+    "pair_id": "2da1889a1392477442ae",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.287500381469727
+  },
+  {
+    "pair_id": "5638a5983d9426bd8414",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.725000381469727
+  },
+  {
+    "pair_id": "1c2cf331ac8dcf2bacf7",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.675000190734863
+  },
+  {
+    "pair_id": "a970b135286bc25079a5",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.037500381469727
+  },
+  {
+    "pair_id": "ec64e2bd331883847738",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.0625
+  },
+  {
+    "pair_id": "10591a8a73ac0daa4669",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.425000190734863
+  },
+  {
+    "pair_id": "bc17074700e34a803681",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.5625
+  },
+  {
+    "pair_id": "1ff5f948fb09c6a016c3",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.631250381469727
+  },
+  {
+    "pair_id": "0a3e06ccda739ac9107d",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.824999809265137
+  },
+  {
+    "pair_id": "d447b9fa252bca4d8406",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.850000381469727
+  },
+  {
+    "pair_id": "98aa593b506c49cff87e",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.425000190734863
+  },
+  {
+    "pair_id": "ffb78977acdd64d573ee",
+    "label": 1,
+    "method": "glaze",
+    "score": 7.581250190734863
+  },
+  {
+    "pair_id": "4a5c7c9fe952e6e3d3a1",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.237500190734863
+  },
+  {
+    "pair_id": "c35ee2513dee9b4a94f0",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.5625
+  },
+  {
+    "pair_id": "a660d19f71e6bf3331df",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.362500190734863
+  },
+  {
+    "pair_id": "f1ab1e216c8dd6e17abd",
+    "label": 1,
+    "method": "glaze",
+    "score": 7.843945503234863
+  },
+  {
+    "pair_id": "9c5f562b9834f03c8e46",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.237500190734863
+  },
+  {
+    "pair_id": "2c5b5456c9afb47e7e58",
+    "label": 1,
+    "method": "glaze",
+    "score": 6.137500286102295
+  },
+  {
+    "pair_id": "8a9d703290fa2372b258",
+    "label": 1,
+    "method": "nightshade",
+    "score": 10.725000381469727
+  },
+  {
+    "pair_id": "f6b13158b8836309a4aa",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.159375190734863
+  },
+  {
+    "pair_id": "c0b34d482abc3be717ca",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.550000190734863
+  },
+  {
+    "pair_id": "add17d19b927e8448a7f",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.58750057220459
+  },
+  {
+    "pair_id": "5801f258301b31ae5655",
+    "label": 1,
+    "method": "nightshade",
+    "score": 11.662500381469727
+  },
+  {
+    "pair_id": "b134cd165b52dad68dcf",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.6875
+  },
+  {
+    "pair_id": "38fe8bc48396de2495ec",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.75
+  },
+  {
+    "pair_id": "b034d6bccd1c1f0fa9db",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.71250057220459
+  },
+  {
+    "pair_id": "f3d65befc88b18b8cb2c",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.699999809265137
+  },
+  {
+    "pair_id": "d6f51dd0779ec4103673",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.52500057220459
+  },
+  {
+    "pair_id": "78932574e7694ae418a7",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.65000057220459
+  },
+  {
+    "pair_id": "5f5e9c31d78df617024d",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.71250057220459
+  },
+  {
+    "pair_id": "a4f5b65a197c52ac2207",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.58750057220459
+  },
+  {
+    "pair_id": "1fd7d97debfa89ca41b2",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.787500381469727
+  },
+  {
+    "pair_id": "3635f42bebad5d9d79af",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.637499809265137
+  },
+  {
+    "pair_id": "870b9d5fe1de6a9c37fd",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "eec0c4001af57865b85b",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.787500381469727
+  },
+  {
+    "pair_id": "f6901f56b3ff3a3ce279",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.600000381469727
+  },
+  {
+    "pair_id": "129957c96fff0e6b7ebe",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "729fe1bef4c5920bcd2d",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.75
+  },
+  {
+    "pair_id": "b0456a00125d3fd465df",
+    "label": 1,
+    "method": "antidb",
+    "score": 10.043749809265137
+  },
+  {
+    "pair_id": "b9ab55b7fd5e2d42d125",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.737500190734863
+  },
+  {
+    "pair_id": "b29a5fd4f2adaed8be08",
+    "label": 1,
+    "method": "antidb",
+    "score": 11.225000381469727
+  },
+  {
+    "pair_id": "7e714e6626256375c8a2",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.5625
+  },
+  {
+    "pair_id": "797975e869c93d65bc22",
+    "label": 1,
+    "method": "glaze",
+    "score": 9.675000190734863
+  },
+  {
+    "pair_id": "3a54777d5dc776dc3f21",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.887499809265137
+  },
+  {
+    "pair_id": "4c3ff7aef95b7971bb46",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.350000381469727
+  },
+  {
+    "pair_id": "6a3bddd7a150c0629f83",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.71484375
+  },
+  {
+    "pair_id": "830d922dd6b27dcfff7b",
+    "label": 1,
+    "method": "glaze",
+    "score": 9.6875
+  },
+  {
+    "pair_id": "55c4ca81ae7efcb1853d",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.125
+  },
+  {
+    "pair_id": "8f9ddfa1f0d36d11cd29",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.0
+  },
+  {
+    "pair_id": "65f6bd5df9b27e33e366",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.40000057220459
+  },
+  {
+    "pair_id": "a527aebc65dcd81e5623",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.074999809265137
+  },
+  {
+    "pair_id": "7935a71330ba4f466db8",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.987500190734863
+  },
+  {
+    "pair_id": "1c195b07c3984428fb22",
+    "label": 1,
+    "method": "glaze",
+    "score": 11.300000190734863
+  },
+  {
+    "pair_id": "af9f60ae1e17abdeba09",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.66562557220459
+  },
+  {
+    "pair_id": "7dc1783f23b384d1aa8e",
+    "label": 1,
+    "method": "glaze",
+    "score": 9.881250381469727
+  },
+  {
+    "pair_id": "9cf01bc0a3190e577997",
+    "label": 1,
+    "method": "glaze",
+    "score": 10.9375
+  },
+  {
+    "pair_id": "bf1edc84ddf6852fdca8",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.97031307220459
+  },
+  {
+    "pair_id": "ea86550f8fb56edef0cb",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.125
+  },
+  {
+    "pair_id": "9e184b431784a725efb7",
+    "label": 1,
+    "method": "glaze",
+    "score": 8.9375
+  },
+  {
+    "pair_id": "434515ebf900df115212",
+    "label": 1,
+    "method": "mist",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "f8a099f8e7e8dac7324f",
+    "label": 1,
+    "method": "mist",
+    "score": 11.675000190734863
+  },
+  {
+    "pair_id": "ddb7f95d06df5fe55a85",
+    "label": 1,
+    "method": "mist",
+    "score": 11.787500381469727
+  },
+  {
+    "pair_id": "1875742644099548a91c",
+    "label": 1,
+    "method": "mist",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "745e7e9bcec7cb35bc06",
+    "label": 1,
+    "method": "mist",
+    "score": 11.71250057220459
+  },
+  {
+    "pair_id": "e52b32aac625d98e5bc1",
+    "label": 1,
+    "method": "mist",
+    "score": 11.737500190734863
+  },
+  {
+    "pair_id": "5c27d28233d235e88ac6",
+    "label": 1,
+    "method": "mist",
+    "score": 11.75
+  },
+  {
+    "pair_id": "0f41904aa4b09c912fa7",
+    "label": 1,
+    "method": "mist",
+    "score": 11.737500190734863
+  },
+  {
+    "pair_id": "cd5f6d0008d7f259a21b",
+    "label": 1,
+    "method": "mist",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "bbad6eea15b719517e12",
+    "label": 1,
+    "method": "mist",
+    "score": 11.83750057220459
+  },
+  {
+    "pair_id": "2c12155e2ed54806d292",
+    "label": 1,
+    "method": "mist",
+    "score": 11.824999809265137
+  },
+  {
+    "pair_id": "727303333731b6537510",
+    "label": 1,
+    "method": "mist",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "6b0c14e8e59ecd0927d7",
+    "label": 1,
+    "method": "mist",
+    "score": 11.699999809265137
+  },
+  {
+    "pair_id": "bc24ea99cf471996de27",
+    "label": 1,
+    "method": "mist",
+    "score": 11.800000190734863
+  },
+  {
+    "pair_id": "69d442df7c87f768798d",
+    "label": 1,
+    "method": "mist",
+    "score": 11.83750057220459
+  },
+  {
+    "pair_id": "2c827a5e5bf22c90ecb2",
+    "label": 1,
+    "method": "mist",
+    "score": 11.762499809265137
+  },
+  {
+    "pair_id": "3133552b21dec0bd3e1b",
+    "label": 1,
+    "method": "mist",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "3a6680c8ff2aba9a40e2",
+    "label": 1,
+    "method": "mist",
+    "score": 11.537500381469727
+  },
+  {
+    "pair_id": "07674ecc2c7ba0420d39",
+    "label": 0,
+    "method": "clean",
+    "score": -10.58750057220459
+  },
+  {
+    "pair_id": "120c2709f7fc86379d9c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "4a5061fe87cb84f2316f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.850000381469727
+  },
+  {
+    "pair_id": "806d8f398cb3496f3a0c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5625
+  },
+  {
+    "pair_id": "445c312c857f11e7875f",
+    "label": 1,
+    "method": "advdm+",
+    "score": 11.875
+  },
+  {
+    "pair_id": "89e73541c56c644de466",
+    "label": 1,
+    "method": "advdm+",
+    "score": 11.725000381469727
+  },
+  {
+    "pair_id": "c8b9e9fdbfe2cde35cd2",
+    "label": 1,
+    "method": "advdm+",
+    "score": 11.875
+  },
+  {
+    "pair_id": "2560e57c43bdbc57c72e",
+    "label": 1,
+    "method": "advdm+",
+    "score": 11.83750057220459
+  },
+  {
+    "pair_id": "aa41c00af1e279456a72",
+    "label": 1,
+    "method": "advdm-",
+    "score": 11.675000190734863
+  },
+  {
+    "pair_id": "e57e69cbf454bfc7278f",
+    "label": 1,
+    "method": "advdm-",
+    "score": 11.612500190734863
+  },
+  {
+    "pair_id": "85ab2606db492816033e",
+    "label": 1,
+    "method": "advdm-",
+    "score": 11.75
+  },
+  {
+    "pair_id": "1cafb1bc111f841b0f58",
+    "label": 1,
+    "method": "advdm-",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "d34e9a18e8a83b1e8f31",
+    "label": 1,
+    "method": "anti-dreambooth",
+    "score": 11.875
+  },
+  {
+    "pair_id": "2a9bc96eb62141ddba77",
+    "label": 1,
+    "method": "anti-dreambooth",
+    "score": 11.787500381469727
+  },
+  {
+    "pair_id": "f11035041d405a61ed2c",
+    "label": 1,
+    "method": "anti-dreambooth",
+    "score": 11.862500190734863
+  },
+  {
+    "pair_id": "dff6c214466c07448a86",
+    "label": 1,
+    "method": "anti-dreambooth",
+    "score": 11.662500381469727
+  },
+  {
+    "pair_id": "8c2b208f66a72a7da751",
+    "label": 1,
+    "method": "glaze2",
+    "score": 11.75
+  },
+  {
+    "pair_id": "ff572c11c6470f07b8b8",
+    "label": 1,
+    "method": "glaze2",
+    "score": 11.77500057220459
+  },
+  {
+    "pair_id": "3a13636f884c36fade5a",
+    "label": 1,
+    "method": "glaze2",
+    "score": 11.762499809265137
+  },
+  {
+    "pair_id": "9f2efe9afa0a76c8a0cb",
+    "label": 1,
+    "method": "glaze2",
+    "score": 11.875
+  },
+  {
+    "pair_id": "c604278b9d648ce1f137",
+    "label": 1,
+    "method": "metacloak",
+    "score": 11.625
+  },
+  {
+    "pair_id": "da86a116893cfb2528d7",
+    "label": 1,
+    "method": "metacloak",
+    "score": 11.600000381469727
+  },
+  {
+    "pair_id": "4b299af86fc75a627f57",
+    "label": 1,
+    "method": "metacloak",
+    "score": 11.762499809265137
+  },
+  {
+    "pair_id": "888a5fcab942bcba6731",
+    "label": 1,
+    "method": "metacloak",
+    "score": 11.725000381469727
+  },
+  {
+    "pair_id": "4e115fd6b355c3f66f10",
+    "label": 1,
+    "method": "mist",
+    "score": 11.850000381469727
+  },
+  {
+    "pair_id": "38ed03b29f855061f9b1",
+    "label": 1,
+    "method": "mist",
+    "score": 11.83750057220459
+  },
+  {
+    "pair_id": "73af564c6becf2b4ac33",
+    "label": 1,
+    "method": "mist",
+    "score": 11.875
+  },
+  {
+    "pair_id": "4ebcdb979819815eda6a",
+    "label": 1,
+    "method": "mist",
+    "score": 11.887499809265137
+  },
+  {
+    "pair_id": "b8e02bdcf3ab01da9893",
+    "label": 1,
+    "method": "sds+",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "b1f3c9ceb8f93adaba5f",
+    "label": 1,
+    "method": "sds+",
+    "score": 11.662500381469727
+  },
+  {
+    "pair_id": "2749ee2365183e8e9989",
+    "label": 1,
+    "method": "sds+",
+    "score": 11.800000190734863
+  },
+  {
+    "pair_id": "702aaa53c62aab8de84b",
+    "label": 1,
+    "method": "sds+",
+    "score": 11.787500381469727
+  },
+  {
+    "pair_id": "5b44bb16bbec750b5e6f",
+    "label": 1,
+    "method": "sds-",
+    "score": 11.6875
+  },
+  {
+    "pair_id": "1cb6e7b1092dbc50fd1d",
+    "label": 1,
+    "method": "sds-",
+    "score": 11.71250057220459
+  },
+  {
+    "pair_id": "6331517c6108e9a3bab7",
+    "label": 1,
+    "method": "sds-",
+    "score": 11.662500381469727
+  },
+  {
+    "pair_id": "e53cb7e70ca4e108fbea",
+    "label": 1,
+    "method": "sds-",
+    "score": 11.75
+  },
+  {
+    "pair_id": "39a38045cbff2edb3a3b",
+    "label": 1,
+    "method": "sdsT5",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "351fd11f8eb6d862a3f7",
+    "label": 1,
+    "method": "sdsT5",
+    "score": 11.8125
+  },
+  {
+    "pair_id": "14b9a297293a4773fc9f",
+    "label": 1,
+    "method": "sdsT5",
+    "score": 11.83750057220459
+  },
+  {
+    "pair_id": "927fe718245176157357",
+    "label": 1,
+    "method": "sdsT5",
+    "score": 11.850000381469727
+  },
+  {
+    "pair_id": "ce9d96f04ba7dc58df5a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.256250381469727
+  },
+  {
+    "pair_id": "370d1754716ee0ce7048",
+    "label": 0,
+    "method": "clean",
+    "score": -10.27500057220459
+  },
+  {
+    "pair_id": "e393cb037fa2bcad464d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.625
+  },
+  {
+    "pair_id": "695a2e9dc24dab44493a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.65000057220459
+  },
+  {
+    "pair_id": "157901e59623a60dc2fc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.58750057220459
+  },
+  {
+    "pair_id": "b9e78b66cf2a458d388c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "2bb09d3d30fb7b01ae81",
+    "label": 0,
+    "method": "clean",
+    "score": -7.862500190734863
+  },
+  {
+    "pair_id": "8a808fcadf36680e55b0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.824999809265137
+  },
+  {
+    "pair_id": "d52530ae3bcf03d0257e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "111d2fb856adec254ed3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.34375
+  },
+  {
+    "pair_id": "fb86a370fcc850751935",
+    "label": 0,
+    "method": "clean",
+    "score": -6.931250095367432
+  },
+  {
+    "pair_id": "b202f4c5b7c3a797e273",
+    "label": 0,
+    "method": "clean",
+    "score": -7.96875
+  },
+  {
+    "pair_id": "bcd103142c66e59b8da1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.300000190734863
+  },
+  {
+    "pair_id": "0710f66b9fd2e914f7ec",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "52f5193c2e6ae938a829",
+    "label": 0,
+    "method": "clean",
+    "score": -7.724999904632568
+  },
+  {
+    "pair_id": "03bc19766bb8c5e7bc97",
+    "label": 0,
+    "method": "clean",
+    "score": -7.962500095367432
+  },
+  {
+    "pair_id": "8ec98e1b250ae7ceff42",
+    "label": 0,
+    "method": "clean",
+    "score": -9.737500190734863
+  },
+  {
+    "pair_id": "537065fc92b2313a5129",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "aa0143bad94c103a1cf9",
+    "label": 0,
+    "method": "clean",
+    "score": -4.285937786102295
+  },
+  {
+    "pair_id": "30de06f882bd408797a3",
+    "label": 0,
+    "method": "clean",
+    "score": -6.837500095367432
+  },
+  {
+    "pair_id": "f854eceda4b1bb952620",
+    "label": 0,
+    "method": "clean",
+    "score": -8.018750190734863
+  },
+  {
+    "pair_id": "9e49c8db502848da3ba4",
+    "label": 0,
+    "method": "clean",
+    "score": -7.4375
+  },
+  {
+    "pair_id": "3be89f3c71e2f789c3ec",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "3b92591a9e27143b021f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.787499904632568
+  },
+  {
+    "pair_id": "72452a8ede78939a8c32",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "745f0d4dbde77258d28e",
+    "label": 0,
+    "method": "clean",
+    "score": -4.862500190734863
+  },
+  {
+    "pair_id": "b3955fd0d8cf65f8b930",
+    "label": 0,
+    "method": "clean",
+    "score": -7.581250190734863
+  },
+  {
+    "pair_id": "f11bf187eb8d3d0a3bf6",
+    "label": 0,
+    "method": "clean",
+    "score": -8.487500190734863
+  },
+  {
+    "pair_id": "b3cdb622e2f1554eb030",
+    "label": 0,
+    "method": "clean",
+    "score": -5.231250286102295
+  },
+  {
+    "pair_id": "d34f865906f69b6341eb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.162500381469727
+  },
+  {
+    "pair_id": "059aad97e88bf102d214",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "e9a2e1d8691c11c74119",
+    "label": 0,
+    "method": "clean",
+    "score": -8.800000190734863
+  },
+  {
+    "pair_id": "1490e85fb0fedba14440",
+    "label": 0,
+    "method": "clean",
+    "score": -4.303124904632568
+  },
+  {
+    "pair_id": "1e86a706b6ab2faa7542",
+    "label": 0,
+    "method": "clean",
+    "score": -7.840625286102295
+  },
+  {
+    "pair_id": "a72d995d066bc72992f4",
+    "label": 0,
+    "method": "clean",
+    "score": -6.509375095367432
+  },
+  {
+    "pair_id": "9fd7f9a6c275c35868a1",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "eb2133eab8114ec8cadb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.58750057220459
+  },
+  {
+    "pair_id": "d7755b3e5243af0412c3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.600000381469727
+  },
+  {
+    "pair_id": "49bff7a2611fa9134732",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "30523168196bb7ee027b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.0625
+  },
+  {
+    "pair_id": "c3c09b1b65a1da956e2a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.824999809265137
+  },
+  {
+    "pair_id": "8f39a9e500ae0cec7675",
+    "label": 0,
+    "method": "clean",
+    "score": -10.52500057220459
+  },
+  {
+    "pair_id": "c81779d5554194fe14bf",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "c6aebe7acd63bedf1f25",
+    "label": 0,
+    "method": "clean",
+    "score": -7.03125
+  },
+  {
+    "pair_id": "4403aa8b24b624bfe299",
+    "label": 0,
+    "method": "clean",
+    "score": -6.493750095367432
+  },
+  {
+    "pair_id": "79df59de81a6ab6cd06b",
+    "label": 0,
+    "method": "clean",
+    "score": -6.712500095367432
+  },
+  {
+    "pair_id": "28f0d81b4edd631ca2e1",
+    "label": 0,
+    "method": "clean",
+    "score": -6.943749904632568
+  },
+  {
+    "pair_id": "0a3168cb6e3f9d720b38",
+    "label": 0,
+    "method": "clean",
+    "score": -8.8125
+  },
+  {
+    "pair_id": "9455efea7eb7a8fb5396",
+    "label": 0,
+    "method": "clean",
+    "score": -7.537499904632568
+  },
+  {
+    "pair_id": "eabb8e59fab1e8338aff",
+    "label": 0,
+    "method": "clean",
+    "score": -8.0
+  },
+  {
+    "pair_id": "6cc083bf8f775116c3b0",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "cfee60775b2a1904c8e5",
+    "label": 0,
+    "method": "clean",
+    "score": -8.5
+  },
+  {
+    "pair_id": "98d26917847971555d8f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.487500190734863
+  },
+  {
+    "pair_id": "464a6af6fb8c4cd83a57",
+    "label": 0,
+    "method": "clean",
+    "score": -9.037500381469727
+  },
+  {
+    "pair_id": "f46ebedd4e84554b052f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "d4fcdf41f942cd6e6f31",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "c5cee0634501c82cf84e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.65000057220459
+  },
+  {
+    "pair_id": "29dbd68a0e36b2290b3c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.131250381469727
+  },
+  {
+    "pair_id": "a6de19c5ba6adf197c0c",
+    "label": 0,
+    "method": "clean",
+    "score": -8.004687309265137
+  },
+  {
+    "pair_id": "887014a46055087c3e72",
+    "label": 0,
+    "method": "clean",
+    "score": -1.568750023841858
+  },
+  {
+    "pair_id": "4a0c59e282218a069317",
+    "label": 0,
+    "method": "clean",
+    "score": -8.65000057220459
+  },
+  {
+    "pair_id": "26e51f439ffbc95f575d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.21250057220459
+  },
+  {
+    "pair_id": "972c03c1b07a6461d857",
+    "label": 0,
+    "method": "clean",
+    "score": -6.471875190734863
+  },
+  {
+    "pair_id": "a75433613eab5dead1cc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.175000190734863
+  },
+  {
+    "pair_id": "292b19ed1a7feabdca93",
+    "label": 0,
+    "method": "clean",
+    "score": -9.949999809265137
+  },
+  {
+    "pair_id": "c13f09ff6e173d78412f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.96250057220459
+  },
+  {
+    "pair_id": "df17abd9d12bee2e37ae",
+    "label": 0,
+    "method": "clean",
+    "score": -7.675000190734863
+  },
+  {
+    "pair_id": "392dc7b77e1577b6fdea",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "135e30ec403e6c2ee79d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "47775ee8ad3aefa54ccc",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "7f55357c75fc025722f4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.21250057220459
+  },
+  {
+    "pair_id": "2c13a4c46cbcd5bc770a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.1875
+  },
+  {
+    "pair_id": "0aeb95ac32941ed15a3e",
+    "label": 0,
+    "method": "clean",
+    "score": -6.287499904632568
+  },
+  {
+    "pair_id": "be038da7221502874504",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "7c4372a6a4f884232721",
+    "label": 0,
+    "method": "clean",
+    "score": -7.96875
+  },
+  {
+    "pair_id": "b8baf24463270234a9be",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "10cb63a594d0e38f7d99",
+    "label": 0,
+    "method": "clean",
+    "score": -9.824999809265137
+  },
+  {
+    "pair_id": "c6987349cef42d68d0f7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.675000190734863
+  },
+  {
+    "pair_id": "795b889a760496f866f2",
+    "label": 0,
+    "method": "clean",
+    "score": -5.71875
+  },
+  {
+    "pair_id": "218a9706d3acd39c5e46",
+    "label": 0,
+    "method": "clean",
+    "score": -9.05625057220459
+  },
+  {
+    "pair_id": "a99f9fe8b2a9a54afe59",
+    "label": 0,
+    "method": "clean",
+    "score": -7.59375
+  },
+  {
+    "pair_id": "a850271fbf5f12554221",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "8ecad9ff984b90f58a3d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.84375
+  },
+  {
+    "pair_id": "0946dcae6f7050dc254f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.900000095367432
+  },
+  {
+    "pair_id": "f803eaa0a9f4c88ee531",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "e0bdc76c4849784e64c1",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "543e92c29a80afeb6f4b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "b2395a6d500aac103840",
+    "label": 0,
+    "method": "clean",
+    "score": -9.25
+  },
+  {
+    "pair_id": "6aea6af9124a4b507da4",
+    "label": 0,
+    "method": "clean",
+    "score": -7.8125
+  },
+  {
+    "pair_id": "23046568874ca5c5ebbd",
+    "label": 0,
+    "method": "clean",
+    "score": -7.575000286102295
+  },
+  {
+    "pair_id": "d4384121ff50b511b451",
+    "label": 0,
+    "method": "clean",
+    "score": -7.150000095367432
+  },
+  {
+    "pair_id": "6dd5ae28e887fa6cb78c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.8125
+  },
+  {
+    "pair_id": "c8da0c8fd29417a57778",
+    "label": 0,
+    "method": "clean",
+    "score": -5.756249904632568
+  },
+  {
+    "pair_id": "77dbaa9facbb65e8f749",
+    "label": 0,
+    "method": "clean",
+    "score": -9.52500057220459
+  },
+  {
+    "pair_id": "edafa2aed38c6adffc27",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "7462e8916e58863529ea",
+    "label": 0,
+    "method": "clean",
+    "score": -9.574999809265137
+  },
+  {
+    "pair_id": "b3bc35f9d1a258a92314",
+    "label": 0,
+    "method": "clean",
+    "score": -8.518750190734863
+  },
+  {
+    "pair_id": "30f3459df1abdc700571",
+    "label": 0,
+    "method": "clean",
+    "score": -10.637499809265137
+  },
+  {
+    "pair_id": "7836e6fa61ba66b88ace",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "8710e5a65348c77a91d4",
+    "label": 0,
+    "method": "clean",
+    "score": -7.918750286102295
+  },
+  {
+    "pair_id": "9388ea0c13c699d825ee",
+    "label": 0,
+    "method": "clean",
+    "score": -10.15000057220459
+  },
+  {
+    "pair_id": "4679dbabea4480d6af88",
+    "label": 0,
+    "method": "clean",
+    "score": -8.018750190734863
+  },
+  {
+    "pair_id": "334336593ba177230c77",
+    "label": 0,
+    "method": "clean",
+    "score": -6.868750095367432
+  },
+  {
+    "pair_id": "1e06c58f6bca4b48aae9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "7b2387d3fccb5272b1b3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "3da6756ada31a0961362",
+    "label": 0,
+    "method": "clean",
+    "score": -8.643750190734863
+  },
+  {
+    "pair_id": "1bdd9cb6fed60f5cf0e7",
+    "label": 0,
+    "method": "clean",
+    "score": -4.615624904632568
+  },
+  {
+    "pair_id": "24e9bbf451b4c549997b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.806250095367432
+  },
+  {
+    "pair_id": "40ec5915530226e0b6d4",
+    "label": 0,
+    "method": "clean",
+    "score": -5.881249904632568
+  },
+  {
+    "pair_id": "0ad777af09bd17a699c4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.8125
+  },
+  {
+    "pair_id": "f2ce6a9bd94ef2490e1a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.90000057220459
+  },
+  {
+    "pair_id": "97fa963265276865daf5",
+    "label": 0,
+    "method": "clean",
+    "score": -8.699999809265137
+  },
+  {
+    "pair_id": "6502f16438d172742672",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "0439947411ce0e8d448e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.08750057220459
+  },
+  {
+    "pair_id": "398f252a6fdce26366b4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.425000190734863
+  },
+  {
+    "pair_id": "75c0486a9414963c133b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.90000057220459
+  },
+  {
+    "pair_id": "10d298299555e975b732",
+    "label": 0,
+    "method": "clean",
+    "score": -8.818750381469727
+  },
+  {
+    "pair_id": "af4cd2f2f3ec6a24e7dd",
+    "label": 0,
+    "method": "clean",
+    "score": -8.100000381469727
+  },
+  {
+    "pair_id": "77143080b967a79eb0de",
+    "label": 0,
+    "method": "clean",
+    "score": -3.411914110183716
+  },
+  {
+    "pair_id": "437a12605711b68f7181",
+    "label": 0,
+    "method": "clean",
+    "score": -6.471875190734863
+  },
+  {
+    "pair_id": "38323ae01cd1f530bb0c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "91c81dea25c38dadc8e3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.393750190734863
+  },
+  {
+    "pair_id": "2aecbe4f7b5986e5d686",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "d4a2e48d76ff3ea1a38f",
+    "label": 0,
+    "method": "clean",
+    "score": -5.921875
+  },
+  {
+    "pair_id": "66273caa372c749c70cf",
+    "label": 0,
+    "method": "clean",
+    "score": -7.900000095367432
+  },
+  {
+    "pair_id": "797f1bfecfb36033a37f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.05625057220459
+  },
+  {
+    "pair_id": "f4fb9270720f43573580",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "09bbd24b26b21264a4a8",
+    "label": 0,
+    "method": "clean",
+    "score": -9.662500381469727
+  },
+  {
+    "pair_id": "bbd7f7bc220f5134a63d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.90000057220459
+  },
+  {
+    "pair_id": "086247553b035defc29e",
+    "label": 0,
+    "method": "clean",
+    "score": -6.462500095367432
+  },
+  {
+    "pair_id": "209db98b05c03831a291",
+    "label": 0,
+    "method": "clean",
+    "score": -8.581250190734863
+  },
+  {
+    "pair_id": "942a46a1048f850423a2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "bdde453b88bda12177a9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "daf5d3938bc1b80bbdfe",
+    "label": 0,
+    "method": "clean",
+    "score": -7.693749904632568
+  },
+  {
+    "pair_id": "76032e12d613eb0fe15d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "0e7e2ee4fcf687db5a57",
+    "label": 0,
+    "method": "clean",
+    "score": -9.875
+  },
+  {
+    "pair_id": "e68880445c7e414f1949",
+    "label": 0,
+    "method": "clean",
+    "score": -8.293749809265137
+  },
+  {
+    "pair_id": "790ce9a4b1e5d7bb9b89",
+    "label": 0,
+    "method": "clean",
+    "score": -10.3125
+  },
+  {
+    "pair_id": "adc6ca212ca2d47a627c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "8cec9114b4f2897cab40",
+    "label": 0,
+    "method": "clean",
+    "score": -8.043749809265137
+  },
+  {
+    "pair_id": "835dc0c772a6e471b344",
+    "label": 0,
+    "method": "clean",
+    "score": -10.52500057220459
+  },
+  {
+    "pair_id": "c42466c80b929c9a4079",
+    "label": 0,
+    "method": "clean",
+    "score": -9.4375
+  },
+  {
+    "pair_id": "2a5ba6caff129c144ebc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.512499809265137
+  },
+  {
+    "pair_id": "27a95c50f9d647c87fe9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.46875
+  },
+  {
+    "pair_id": "948ea223d484f5714884",
+    "label": 0,
+    "method": "clean",
+    "score": -8.675000190734863
+  },
+  {
+    "pair_id": "d67fe4cbcbc8c60c86e4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.75
+  },
+  {
+    "pair_id": "653eba94b3432c4e3740",
+    "label": 0,
+    "method": "clean",
+    "score": -6.643750190734863
+  },
+  {
+    "pair_id": "ab2f1d2a942b2bb3b06b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.800000190734863
+  },
+  {
+    "pair_id": "9dfc37d2288fd8e5f280",
+    "label": 0,
+    "method": "clean",
+    "score": -8.199999809265137
+  },
+  {
+    "pair_id": "75d8331c2c7812de73ad",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "7a9679972c2d1114f962",
+    "label": 0,
+    "method": "clean",
+    "score": -7.934375286102295
+  },
+  {
+    "pair_id": "ba1f27e12150652795d8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "5b9f5e9f017bbbf916ca",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "70c69788879fc0962eec",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "a0288a741259b885ce44",
+    "label": 0,
+    "method": "clean",
+    "score": -7.849999904632568
+  },
+  {
+    "pair_id": "5e75b327472329f205a0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.018750190734863
+  },
+  {
+    "pair_id": "ceaeeeff4323ff95c925",
+    "label": 0,
+    "method": "clean",
+    "score": -8.768750190734863
+  },
+  {
+    "pair_id": "7c684fd91e522f7a577b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.793749809265137
+  },
+  {
+    "pair_id": "ae6e3d9c600a425b571a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "814f9fb007033bf9365d",
+    "label": 0,
+    "method": "clean",
+    "score": -6.400000095367432
+  },
+  {
+    "pair_id": "e89d4cdd419d05812131",
+    "label": 0,
+    "method": "clean",
+    "score": -10.52500057220459
+  },
+  {
+    "pair_id": "9987d2ccc665d0a19fe4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "9067dfa144541a2e98a7",
+    "label": 0,
+    "method": "clean",
+    "score": -7.662499904632568
+  },
+  {
+    "pair_id": "5eb43356a781d9d5e14a",
+    "label": 0,
+    "method": "clean",
+    "score": -3.549999952316284
+  },
+  {
+    "pair_id": "7f77fdc46523df83d639",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "1d21624dc1b092fecb22",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "8d968f0b47160efdf034",
+    "label": 0,
+    "method": "clean",
+    "score": -9.787500381469727
+  },
+  {
+    "pair_id": "96fdc6741b00a1b661cb",
+    "label": 0,
+    "method": "clean",
+    "score": -6.446875095367432
+  },
+  {
+    "pair_id": "db38b0387fd9f9bcb22a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.543749809265137
+  },
+  {
+    "pair_id": "05a1947ee578669872d4",
+    "label": 0,
+    "method": "clean",
+    "score": -8.881250381469727
+  },
+  {
+    "pair_id": "43b03b64b0fca9a7cecf",
+    "label": 0,
+    "method": "clean",
+    "score": -7.787499904632568
+  },
+  {
+    "pair_id": "37fff041d52185f6b18f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.850000381469727
+  },
+  {
+    "pair_id": "3ac195718b9959c90166",
+    "label": 0,
+    "method": "clean",
+    "score": -8.449999809265137
+  },
+  {
+    "pair_id": "3d2b35b5fe167a555298",
+    "label": 0,
+    "method": "clean",
+    "score": -5.443749904632568
+  },
+  {
+    "pair_id": "685408912e911c550f2f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.425000190734863
+  },
+  {
+    "pair_id": "242ad70509a50639cd4b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "4f932f21df423ffec0aa",
+    "label": 0,
+    "method": "clean",
+    "score": -9.375
+  },
+  {
+    "pair_id": "31fb60fcb0b9e64f51a7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.612500190734863
+  },
+  {
+    "pair_id": "ae5641e2afc8dfda40ac",
+    "label": 0,
+    "method": "clean",
+    "score": -8.324999809265137
+  },
+  {
+    "pair_id": "a650193bbc8e038cfde4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "2f693d6cdb5aea07ebcb",
+    "label": 0,
+    "method": "clean",
+    "score": -8.112500190734863
+  },
+  {
+    "pair_id": "185944a1bc9021f86a2b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.824999809265137
+  },
+  {
+    "pair_id": "7d8b022d8422ecd0e7ae",
+    "label": 0,
+    "method": "clean",
+    "score": -6.987500190734863
+  },
+  {
+    "pair_id": "9c2e1740402aab282895",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "22f075aee62572b84628",
+    "label": 0,
+    "method": "clean",
+    "score": -10.65000057220459
+  },
+  {
+    "pair_id": "ec97b699868a875cdcbb",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "113d30dce0cbc53d2e8d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "45c5d5d5fbd7e3a2dc97",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "1fb26b7134f4d760de70",
+    "label": 0,
+    "method": "clean",
+    "score": -8.77500057220459
+  },
+  {
+    "pair_id": "492ee27e9e5f16f821dd",
+    "label": 0,
+    "method": "clean",
+    "score": -10.612500190734863
+  },
+  {
+    "pair_id": "10c7714fe66c7304be46",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "176b2f8e584ec41e9ff7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.800000190734863
+  },
+  {
+    "pair_id": "fbe55c043db5e6e9a390",
+    "label": 0,
+    "method": "clean",
+    "score": -6.993750095367432
+  },
+  {
+    "pair_id": "19fd882a0c2b02a1e1f3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.11875057220459
+  },
+  {
+    "pair_id": "1953c5409eb016ff8b85",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "0c60718606894566a582",
+    "label": 0,
+    "method": "clean",
+    "score": -9.800000190734863
+  },
+  {
+    "pair_id": "b8500a78153e2bc54646",
+    "label": 0,
+    "method": "clean",
+    "score": -10.425000190734863
+  },
+  {
+    "pair_id": "c575b6a0474c6237af16",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "b0a66b5ba238253c4ccd",
+    "label": 0,
+    "method": "clean",
+    "score": -3.715625047683716
+  },
+  {
+    "pair_id": "2fbce330688c47f5703c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.3125
+  },
+  {
+    "pair_id": "fc11e3e4626d5485e095",
+    "label": 0,
+    "method": "clean",
+    "score": -7.424218654632568
+  },
+  {
+    "pair_id": "f5be160a1f6693b08c1e",
+    "label": 0,
+    "method": "clean",
+    "score": -3.995312452316284
+  },
+  {
+    "pair_id": "967763adc61266348387",
+    "label": 0,
+    "method": "clean",
+    "score": -9.787500381469727
+  },
+  {
+    "pair_id": "79e7dbd63ad62bdfddd2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "ba852f01a80c3d178722",
+    "label": 0,
+    "method": "clean",
+    "score": -10.27500057220459
+  },
+  {
+    "pair_id": "0c73c6abced325745771",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "f77c7501921a374dcc57",
+    "label": 0,
+    "method": "clean",
+    "score": -6.0
+  },
+  {
+    "pair_id": "ced2f9061ac996288cb1",
+    "label": 0,
+    "method": "clean",
+    "score": -10.537500381469727
+  },
+  {
+    "pair_id": "8449724962b3b0d96e95",
+    "label": 0,
+    "method": "clean",
+    "score": -7.931250095367432
+  },
+  {
+    "pair_id": "8df798b29e7f2571a483",
+    "label": 0,
+    "method": "clean",
+    "score": -8.662500381469727
+  },
+  {
+    "pair_id": "798c9a585f49d7b5cd0d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "e86623f3f7277f698fc9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.787500381469727
+  },
+  {
+    "pair_id": "165c9e93260832017344",
+    "label": 0,
+    "method": "clean",
+    "score": -8.0625
+  },
+  {
+    "pair_id": "71aad3cc6f0e559a068a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.725000381469727
+  },
+  {
+    "pair_id": "7dfac22fc2e6f6ca28ea",
+    "label": 0,
+    "method": "clean",
+    "score": -9.262499809265137
+  },
+  {
+    "pair_id": "123f772722ca945a1557",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "0784e29344ff83d00cb5",
+    "label": 0,
+    "method": "clean",
+    "score": -6.078125
+  },
+  {
+    "pair_id": "d6dea8ae271e4b28003c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.387499809265137
+  },
+  {
+    "pair_id": "98d80605e09c673cdbb7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.74375057220459
+  },
+  {
+    "pair_id": "563a651075e810866c01",
+    "label": 0,
+    "method": "clean",
+    "score": -10.262499809265137
+  },
+  {
+    "pair_id": "4cc1989ac7ec919fbd5b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.631250381469727
+  },
+  {
+    "pair_id": "1911c5dc9176b907ccb6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.387499809265137
+  },
+  {
+    "pair_id": "a85f6f338775ba03b6be",
+    "label": 0,
+    "method": "clean",
+    "score": -7.737500190734863
+  },
+  {
+    "pair_id": "29678eba780ee6c46e6c",
+    "label": 0,
+    "method": "clean",
+    "score": -5.434375286102295
+  },
+  {
+    "pair_id": "df8d772ca9e243216f97",
+    "label": 0,
+    "method": "clean",
+    "score": -4.279687404632568
+  },
+  {
+    "pair_id": "6013f3dd104c6074d42c",
+    "label": 0,
+    "method": "clean",
+    "score": -5.759375095367432
+  },
+  {
+    "pair_id": "b3d4f86ec35c0df3ad17",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "b13f8697b1a5e9271a2e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.600000381469727
+  },
+  {
+    "pair_id": "cb69a2d41ae825d8d6d0",
+    "label": 0,
+    "method": "clean",
+    "score": -6.932031154632568
+  },
+  {
+    "pair_id": "9162e09fcf43046c8692",
+    "label": 0,
+    "method": "clean",
+    "score": -9.5
+  },
+  {
+    "pair_id": "8bba61a304b0be0409ae",
+    "label": 0,
+    "method": "clean",
+    "score": -10.143750190734863
+  },
+  {
+    "pair_id": "89b3ae2307251985a5c5",
+    "label": 0,
+    "method": "clean",
+    "score": -9.787500381469727
+  },
+  {
+    "pair_id": "87a80812fbe37336421e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.537500381469727
+  },
+  {
+    "pair_id": "46ef1d3d2896fed3ff4a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.65000057220459
+  },
+  {
+    "pair_id": "9d23f00905cccfbc3d8e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.193750381469727
+  },
+  {
+    "pair_id": "a2cac43a0275bcb47242",
+    "label": 0,
+    "method": "clean",
+    "score": -8.987500190734863
+  },
+  {
+    "pair_id": "90268ba8ba5e9a5796a8",
+    "label": 0,
+    "method": "clean",
+    "score": -4.431250095367432
+  },
+  {
+    "pair_id": "4ae464d9054ad996e9d0",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "6f296dc4bad38196b82c",
+    "label": 0,
+    "method": "clean",
+    "score": -6.550000190734863
+  },
+  {
+    "pair_id": "552f3d4420dba8798df3",
+    "label": 0,
+    "method": "clean",
+    "score": -7.193749904632568
+  },
+  {
+    "pair_id": "a6dae06ac5f19aaf83cb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "e739b5050fcc350e4e90",
+    "label": 0,
+    "method": "clean",
+    "score": -9.125
+  },
+  {
+    "pair_id": "646b1d223087f5e79a8d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.86875057220459
+  },
+  {
+    "pair_id": "9785399ca0f1d92908a0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.012499809265137
+  },
+  {
+    "pair_id": "0b81805826387bd64ad3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.02500057220459
+  },
+  {
+    "pair_id": "5a6425fdd948f8b27ad0",
+    "label": 0,
+    "method": "clean",
+    "score": -10.100000381469727
+  },
+  {
+    "pair_id": "4467cdc0ef3c82c03cf3",
+    "label": 0,
+    "method": "clean",
+    "score": -7.768750190734863
+  },
+  {
+    "pair_id": "2a3e5130a0ab0fd48198",
+    "label": 0,
+    "method": "clean",
+    "score": -7.362500190734863
+  },
+  {
+    "pair_id": "6762393c9a4475fde772",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "67050eaa1f45c7430594",
+    "label": 0,
+    "method": "clean",
+    "score": -9.850000381469727
+  },
+  {
+    "pair_id": "25e029411cb1929b148f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.5
+  },
+  {
+    "pair_id": "51c79c3ea05f2bdf9c5e",
+    "label": 0,
+    "method": "clean",
+    "score": -5.662499904632568
+  },
+  {
+    "pair_id": "cecbfb40b94ae8129c9c",
+    "label": 0,
+    "method": "clean",
+    "score": -5.232812404632568
+  },
+  {
+    "pair_id": "960cb2da2b0a9eec574a",
+    "label": 0,
+    "method": "clean",
+    "score": -5.793750286102295
+  },
+  {
+    "pair_id": "bff085aad0038d99dac7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.125
+  },
+  {
+    "pair_id": "95b3728ac1bcb984b19b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.27500057220459
+  },
+  {
+    "pair_id": "7455c98f1d66fc8a795f",
+    "label": 0,
+    "method": "clean",
+    "score": -0.18437500298023224
+  },
+  {
+    "pair_id": "4b484ddf20892e6daf90",
+    "label": 0,
+    "method": "clean",
+    "score": -10.537500381469727
+  },
+  {
+    "pair_id": "248f5a75b5e289159df7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.52500057220459
+  },
+  {
+    "pair_id": "086bee30515c44abc098",
+    "label": 0,
+    "method": "clean",
+    "score": -10.050000190734863
+  },
+  {
+    "pair_id": "78dc9826fe18f1b8f634",
+    "label": 0,
+    "method": "clean",
+    "score": -5.443749904632568
+  },
+  {
+    "pair_id": "3e0b703ceb715448257b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "5515e07fd940edc11cbe",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "e731ac224823452ae526",
+    "label": 0,
+    "method": "clean",
+    "score": -9.175000190734863
+  },
+  {
+    "pair_id": "2dab7ad61806ae463059",
+    "label": 0,
+    "method": "clean",
+    "score": -8.612500190734863
+  },
+  {
+    "pair_id": "fd1c6bd69733ee500217",
+    "label": 0,
+    "method": "clean",
+    "score": -6.246875286102295
+  },
+  {
+    "pair_id": "ee13203c128c9679c9a0",
+    "label": 0,
+    "method": "clean",
+    "score": -7.137500286102295
+  },
+  {
+    "pair_id": "779ed99b61d8d13159e5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "fcd7f0be5a77d8b2d2ab",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "87e42bec10faf8b0ea04",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "b5766fb6259433f40b01",
+    "label": 0,
+    "method": "clean",
+    "score": -8.925000190734863
+  },
+  {
+    "pair_id": "bfc6c8dbc69312e1a63c",
+    "label": 0,
+    "method": "clean",
+    "score": -8.40000057220459
+  },
+  {
+    "pair_id": "b2a9928d6b9cb7c4fc31",
+    "label": 0,
+    "method": "clean",
+    "score": -6.287499904632568
+  },
+  {
+    "pair_id": "9ef222bb4ac10ae260d9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.887499809265137
+  },
+  {
+    "pair_id": "24393cc4d13e48e76e67",
+    "label": 0,
+    "method": "clean",
+    "score": -7.943749904632568
+  },
+  {
+    "pair_id": "7e770063a2f3ec2e0f5c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.05625057220459
+  },
+  {
+    "pair_id": "1f129ab54539eba17fb1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.443749904632568
+  },
+  {
+    "pair_id": "c42dc3ac305726cf05ad",
+    "label": 0,
+    "method": "clean",
+    "score": -8.550000190734863
+  },
+  {
+    "pair_id": "cb04b5a61a7e5ea561f7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "e30b0a010a9230cdc42a",
+    "label": 0,
+    "method": "clean",
+    "score": -6.550000190734863
+  },
+  {
+    "pair_id": "f8b91c8e19a1eed673a9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.0625
+  },
+  {
+    "pair_id": "715dff4fe75505346fd1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.3125
+  },
+  {
+    "pair_id": "e991a97b7e792135c55e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "ba9df63c62e3e2b6df8b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.77500057220459
+  },
+  {
+    "pair_id": "f80d9ea6a0843afa7336",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "416da7494d4538e495bd",
+    "label": 0,
+    "method": "clean",
+    "score": -8.8125
+  },
+  {
+    "pair_id": "b49aff428aa15587f0eb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "c5d1e55ae9654f180772",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "b59deb3813a582d812d2",
+    "label": 0,
+    "method": "clean",
+    "score": -7.0625
+  },
+  {
+    "pair_id": "e8531f5626e20272469b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.59375
+  },
+  {
+    "pair_id": "32de4febaadcbbddd2c2",
+    "label": 0,
+    "method": "clean",
+    "score": -5.446875095367432
+  },
+  {
+    "pair_id": "e23c635fe325483e847c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.018750190734863
+  },
+  {
+    "pair_id": "0a9eb57a2ed9287e9f00",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "4209ff40a78bbb38f7b3",
+    "label": 0,
+    "method": "clean",
+    "score": -4.001562595367432
+  },
+  {
+    "pair_id": "4f07811b268f63accaa6",
+    "label": 0,
+    "method": "clean",
+    "score": -10.550000190734863
+  },
+  {
+    "pair_id": "8a18c6d69c0f15dd8e0f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.449999809265137
+  },
+  {
+    "pair_id": "4b7d4aff2e0744cda00e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "40eca041c86535da3787",
+    "label": 0,
+    "method": "clean",
+    "score": -5.75
+  },
+  {
+    "pair_id": "fb55dcb2c0ef7353b529",
+    "label": 0,
+    "method": "clean",
+    "score": -8.30625057220459
+  },
+  {
+    "pair_id": "2a7a3cd6e5f671a13b3c",
+    "label": 0,
+    "method": "clean",
+    "score": -8.75
+  },
+  {
+    "pair_id": "cae1ae8b10aa03c1b873",
+    "label": 0,
+    "method": "clean",
+    "score": -8.237500190734863
+  },
+  {
+    "pair_id": "31637c905abc53f6f328",
+    "label": 0,
+    "method": "clean",
+    "score": -10.262499809265137
+  },
+  {
+    "pair_id": "b77efc7ae3a0ad0f2f4d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.018750190734863
+  },
+  {
+    "pair_id": "ed1b9218057771fc2162",
+    "label": 0,
+    "method": "clean",
+    "score": -7.837500095367432
+  },
+  {
+    "pair_id": "5ac5396d18b9252ad0e0",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "931859726833cad4cdbe",
+    "label": 0,
+    "method": "clean",
+    "score": -5.609375
+  },
+  {
+    "pair_id": "f1f9095ad3c356c23460",
+    "label": 0,
+    "method": "clean",
+    "score": -10.125
+  },
+  {
+    "pair_id": "787408756865a5a1ab11",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "2535299abf5b62deb489",
+    "label": 0,
+    "method": "clean",
+    "score": -9.043749809265137
+  },
+  {
+    "pair_id": "fcb8058c7b52b8f429fa",
+    "label": 0,
+    "method": "clean",
+    "score": -8.43125057220459
+  },
+  {
+    "pair_id": "2202de05eda551ace36b",
+    "label": 0,
+    "method": "clean",
+    "score": -3.2113282680511475
+  },
+  {
+    "pair_id": "a8a94faa66b7122cb67b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.787500381469727
+  },
+  {
+    "pair_id": "899133c3c18837a7ae43",
+    "label": 0,
+    "method": "clean",
+    "score": -6.206250190734863
+  },
+  {
+    "pair_id": "34137be8fd540611ba5f",
+    "label": 0,
+    "method": "clean",
+    "score": -6.987500190734863
+  },
+  {
+    "pair_id": "134054350b28740f8548",
+    "label": 0,
+    "method": "clean",
+    "score": -7.46875
+  },
+  {
+    "pair_id": "bb7db69386a8313ab69e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.890625
+  },
+  {
+    "pair_id": "54369abb2bb54c5509f9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "8191536fafb930eb4c54",
+    "label": 0,
+    "method": "clean",
+    "score": -7.601367473602295
+  },
+  {
+    "pair_id": "857987a64249be0e8194",
+    "label": 0,
+    "method": "clean",
+    "score": -4.126562595367432
+  },
+  {
+    "pair_id": "898a8c25b4a4a196ca27",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0
+  },
+  {
+    "pair_id": "9941d26ce14d6aa83cde",
+    "label": 0,
+    "method": "clean",
+    "score": -9.262499809265137
+  },
+  {
+    "pair_id": "d2f1f5318951623ada51",
+    "label": 0,
+    "method": "clean",
+    "score": -7.987500190734863
+  },
+  {
+    "pair_id": "bd3f3a9c1abc2a543fe8",
+    "label": 0,
+    "method": "clean",
+    "score": -7.737500190734863
+  },
+  {
+    "pair_id": "bfb1371eeaa401ff9e66",
+    "label": 0,
+    "method": "clean",
+    "score": -8.53125
+  },
+  {
+    "pair_id": "c67d00377e3376bdfcc8",
+    "label": 0,
+    "method": "clean",
+    "score": -9.40000057220459
+  },
+  {
+    "pair_id": "f5ec21fa7745c4d6568d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.537500381469727
+  },
+  {
+    "pair_id": "8e596f736346f4fb680a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.756249904632568
+  },
+  {
+    "pair_id": "803261f368f45b71597d",
+    "label": 0,
+    "method": "clean",
+    "score": -4.889062404632568
+  },
+  {
+    "pair_id": "ccdfbe24f9dded1c2b6e",
+    "label": 0,
+    "method": "clean",
+    "score": -7.84375
+  },
+  {
+    "pair_id": "071385b4c7f1198c0e21",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "d90fcdc75996645cf454",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "f1a67389c91270a779dd",
+    "label": 0,
+    "method": "clean",
+    "score": -3.6937501430511475
+  },
+  {
+    "pair_id": "6c44580c4295e3c8d41a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "600fff9cebfe32b29889",
+    "label": 0,
+    "method": "clean",
+    "score": -7.421875
+  },
+  {
+    "pair_id": "5d56cd514997bbaa0feb",
+    "label": 0,
+    "method": "clean",
+    "score": -6.78125
+  },
+  {
+    "pair_id": "41b64a8fdcad2d0668c9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.03125
+  },
+  {
+    "pair_id": "346c86d7bf88aafc13b8",
+    "label": 0,
+    "method": "clean",
+    "score": -8.84375
+  },
+  {
+    "pair_id": "dce2575c9819f5d6b7ff",
+    "label": 0,
+    "method": "clean",
+    "score": -9.625
+  },
+  {
+    "pair_id": "08f08e7aa1e6275ad20c",
+    "label": 0,
+    "method": "clean",
+    "score": -4.390625
+  },
+  {
+    "pair_id": "a9c0c3fd4ceec9b1089b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.050000190734863
+  },
+  {
+    "pair_id": "18f111a2b7a062589865",
+    "label": 0,
+    "method": "clean",
+    "score": -5.490624904632568
+  },
+  {
+    "pair_id": "acf3bde0c7768c10d2a9",
+    "label": 0,
+    "method": "clean",
+    "score": -7.912499904632568
+  },
+  {
+    "pair_id": "7b3d8e2a98a1ca75214d",
+    "label": 0,
+    "method": "clean",
+    "score": -1.82421875
+  },
+  {
+    "pair_id": "6d2065f1095ddc7f1b19",
+    "label": 0,
+    "method": "clean",
+    "score": -9.662500381469727
+  },
+  {
+    "pair_id": "a9fd5de3da86b3337650",
+    "label": 0,
+    "method": "clean",
+    "score": -8.86875057220459
+  },
+  {
+    "pair_id": "0a976de714454eeb2fe8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "9021b01995704ddee964",
+    "label": 0,
+    "method": "clean",
+    "score": -6.175000190734863
+  },
+  {
+    "pair_id": "6154fbc7261fcc404be3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.949999809265137
+  },
+  {
+    "pair_id": "12cabe88281821fa871a",
+    "label": 0,
+    "method": "clean",
+    "score": -6.900000095367432
+  },
+  {
+    "pair_id": "487e44fec62e94bcf18e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.543749809265137
+  },
+  {
+    "pair_id": "9b6f6ece4616294d2ed9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.75
+  },
+  {
+    "pair_id": "a603bd755bfa42aa70ee",
+    "label": 0,
+    "method": "clean",
+    "score": -7.271874904632568
+  },
+  {
+    "pair_id": "345815631dc74c1c49f2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.875
+  },
+  {
+    "pair_id": "3ef910d9d3c18697de80",
+    "label": 0,
+    "method": "clean",
+    "score": -8.08750057220459
+  },
+  {
+    "pair_id": "8fab91c56d58667aaeb1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.02500057220459
+  },
+  {
+    "pair_id": "43b9fd76ed5ddd8ac65e",
+    "label": 0,
+    "method": "clean",
+    "score": -7.681250095367432
+  },
+  {
+    "pair_id": "53ba20bb3fd96da48fe9",
+    "label": 0,
+    "method": "clean",
+    "score": -7.743750095367432
+  },
+  {
+    "pair_id": "1c80e2f8c5a2faf81ec4",
+    "label": 0,
+    "method": "clean",
+    "score": -6.806250095367432
+  },
+  {
+    "pair_id": "590254c3da7a091e61b2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.262499809265137
+  },
+  {
+    "pair_id": "dfac2f47e2929c517aa5",
+    "label": 0,
+    "method": "clean",
+    "score": -7.631249904632568
+  },
+  {
+    "pair_id": "8b33fbbdac48d3bc08c1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.193749904632568
+  },
+  {
+    "pair_id": "edd4c5abe4559ca7ab04",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "186499e7d27575256bc4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "1703983aa8cac5e2541f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.300000190734863
+  },
+  {
+    "pair_id": "46303d075b032aa22f27",
+    "label": 0,
+    "method": "clean",
+    "score": -9.600000381469727
+  },
+  {
+    "pair_id": "dac16741783607eecf4a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.831250190734863
+  },
+  {
+    "pair_id": "3fb1f6eea9a212162198",
+    "label": 0,
+    "method": "clean",
+    "score": -9.050000190734863
+  },
+  {
+    "pair_id": "b41aa29118c2c664cfe5",
+    "label": 0,
+    "method": "clean",
+    "score": -8.537500381469727
+  },
+  {
+    "pair_id": "e10b78be5d79667a16e5",
+    "label": 0,
+    "method": "clean",
+    "score": -7.962500095367432
+  },
+  {
+    "pair_id": "f4550a4ddf97b4d60627",
+    "label": 0,
+    "method": "clean",
+    "score": -3.7250001430511475
+  },
+  {
+    "pair_id": "bb1d55fcb724d5b6192c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.875
+  },
+  {
+    "pair_id": "44899c91d841f071347b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.600000381469727
+  },
+  {
+    "pair_id": "907d327132aa319d72a2",
+    "label": 0,
+    "method": "clean",
+    "score": -7.650000095367432
+  },
+  {
+    "pair_id": "6ad935abed053db029b0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.418749809265137
+  },
+  {
+    "pair_id": "374dbe396b7e9322e108",
+    "label": 0,
+    "method": "clean",
+    "score": -9.193750381469727
+  },
+  {
+    "pair_id": "4921f32f696015bc2a12",
+    "label": 0,
+    "method": "clean",
+    "score": -9.012499809265137
+  },
+  {
+    "pair_id": "8481d0c9ea23f88dae27",
+    "label": 0,
+    "method": "clean",
+    "score": -5.065625190734863
+  },
+  {
+    "pair_id": "81e6419e29a7da3fb66a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "5fa5714e58f23a632461",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "06359d05f2f0ebb566bd",
+    "label": 0,
+    "method": "clean",
+    "score": -6.3984375
+  },
+  {
+    "pair_id": "8304aafb3451c4133c92",
+    "label": 0,
+    "method": "clean",
+    "score": -8.287500381469727
+  },
+  {
+    "pair_id": "53608260f8614aeb8eb7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.875
+  },
+  {
+    "pair_id": "d54c934f649eee96bb57",
+    "label": 0,
+    "method": "clean",
+    "score": -7.068749904632568
+  },
+  {
+    "pair_id": "235cad625e0715394f20",
+    "label": 0,
+    "method": "clean",
+    "score": -9.412500381469727
+  },
+  {
+    "pair_id": "1ddc009e285ff4a8f43c",
+    "label": 0,
+    "method": "clean",
+    "score": -4.849999904632568
+  },
+  {
+    "pair_id": "7bf49e0bb02fe090d45f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.637499809265137
+  },
+  {
+    "pair_id": "e9a989b52d12495539ca",
+    "label": 0,
+    "method": "clean",
+    "score": -6.337500095367432
+  },
+  {
+    "pair_id": "6382678d8d7a359a40a4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "7c9106bab762b8d522cd",
+    "label": 0,
+    "method": "clean",
+    "score": -6.462500095367432
+  },
+  {
+    "pair_id": "214a67cd00c84a5d4767",
+    "label": 0,
+    "method": "clean",
+    "score": -10.58750057220459
+  },
+  {
+    "pair_id": "0362974a59dc639cc8d6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.850000381469727
+  },
+  {
+    "pair_id": "8e63632d9b8e31f2b221",
+    "label": 0,
+    "method": "clean",
+    "score": -10.65000057220459
+  },
+  {
+    "pair_id": "c6106d114dd9978b15d0",
+    "label": 0,
+    "method": "clean",
+    "score": -5.392578125
+  },
+  {
+    "pair_id": "7bd59d1a0ccac2a55c41",
+    "label": 0,
+    "method": "clean",
+    "score": -8.25
+  },
+  {
+    "pair_id": "4314c789b5db2db6759f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.52500057220459
+  },
+  {
+    "pair_id": "ad5f849d51754170ecaf",
+    "label": 0,
+    "method": "clean",
+    "score": -9.25
+  },
+  {
+    "pair_id": "3d8a3d59c3ce20071e84",
+    "label": 0,
+    "method": "clean",
+    "score": -3.71875
+  },
+  {
+    "pair_id": "bb05942ea703c68fce0d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.49375057220459
+  },
+  {
+    "pair_id": "3030e0255e5d6755c2e3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.543749809265137
+  },
+  {
+    "pair_id": "47f2471caae93e8f39f4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "784ca9793900e54c65d5",
+    "label": 0,
+    "method": "clean",
+    "score": -9.137499809265137
+  },
+  {
+    "pair_id": "3c443a9c5de5f098241a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.625
+  },
+  {
+    "pair_id": "b9d1b10f6c2a98d35bef",
+    "label": 0,
+    "method": "clean",
+    "score": -6.715625286102295
+  },
+  {
+    "pair_id": "e9a3951eb97878236e51",
+    "label": 0,
+    "method": "clean",
+    "score": -10.512499809265137
+  },
+  {
+    "pair_id": "59b19857fbc43b7b95dc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "57c7bed1f5ce193ddc09",
+    "label": 0,
+    "method": "clean",
+    "score": -9.506250381469727
+  },
+  {
+    "pair_id": "8cde1949913934815ea3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "b0c0e5ce6904e91de0d8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "a8dd8a852c36b973da75",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "dc37cd9e169e575bbda7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.300000190734863
+  },
+  {
+    "pair_id": "ea2fa86c64348ee69dc8",
+    "label": 0,
+    "method": "clean",
+    "score": -6.459374904632568
+  },
+  {
+    "pair_id": "9c40e3c24a5571ccabe4",
+    "label": 0,
+    "method": "clean",
+    "score": -2.7875001430511475
+  },
+  {
+    "pair_id": "2b5795b566662fe5d403",
+    "label": 0,
+    "method": "clean",
+    "score": -8.331250190734863
+  },
+  {
+    "pair_id": "4b5ee52ed041784c4ec8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.375
+  },
+  {
+    "pair_id": "954f4909375dc080e8e2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "b472f2893db092225e17",
+    "label": 0,
+    "method": "clean",
+    "score": -8.543749809265137
+  },
+  {
+    "pair_id": "d20ab808eb8e83466cfe",
+    "label": 0,
+    "method": "clean",
+    "score": -9.350000381469727
+  },
+  {
+    "pair_id": "6904c6571720412137d8",
+    "label": 0,
+    "method": "clean",
+    "score": -6.443749904632568
+  },
+  {
+    "pair_id": "8f4d70cf838e64c07df0",
+    "label": 0,
+    "method": "clean",
+    "score": -5.68359375
+  },
+  {
+    "pair_id": "9d95904903da9486abd9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.487500190734863
+  },
+  {
+    "pair_id": "9a2a2c4bf3e788ee578e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "817f394c4f4f08307cb5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.637499809265137
+  },
+  {
+    "pair_id": "9e3c4486e4ecad86244c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.737500190734863
+  },
+  {
+    "pair_id": "56e8d362fe96d8391b13",
+    "label": 0,
+    "method": "clean",
+    "score": -7.925000190734863
+  },
+  {
+    "pair_id": "6d2dc1492dc87403da10",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "6a869772a825f64f072a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.700000286102295
+  },
+  {
+    "pair_id": "b00a184f9d282bcc997a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "254cef0f5e2286e43ee3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.78125
+  },
+  {
+    "pair_id": "7453f05dfb3e4c867e4a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.75
+  },
+  {
+    "pair_id": "7d2d683c3f83a2c57d7e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.08750057220459
+  },
+  {
+    "pair_id": "9fb6d8e7cc8600f15b88",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "6eb7bc2939643330f7a3",
+    "label": 0,
+    "method": "clean",
+    "score": -7.612500190734863
+  },
+  {
+    "pair_id": "b9475931b171c3f7c06a",
+    "label": 0,
+    "method": "clean",
+    "score": -5.175000190734863
+  },
+  {
+    "pair_id": "79f3241cd82f8f2f055f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.425000190734863
+  },
+  {
+    "pair_id": "a7d6528dcdd8f6f3ccac",
+    "label": 0,
+    "method": "clean",
+    "score": -8.006250381469727
+  },
+  {
+    "pair_id": "9831597d4e4acaf99cd4",
+    "label": 0,
+    "method": "clean",
+    "score": -8.643750190734863
+  },
+  {
+    "pair_id": "24e98e3b841c16c78ee7",
+    "label": 0,
+    "method": "clean",
+    "score": -6.8125
+  },
+  {
+    "pair_id": "de3c6affba7d6892682d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.800000190734863
+  },
+  {
+    "pair_id": "24580c5bc007fd8125b8",
+    "label": 0,
+    "method": "clean",
+    "score": -9.33750057220459
+  },
+  {
+    "pair_id": "937fba3a80e67da90792",
+    "label": 0,
+    "method": "clean",
+    "score": -6.496875286102295
+  },
+  {
+    "pair_id": "fbc1e9a2f5598d6dbdf4",
+    "label": 0,
+    "method": "clean",
+    "score": -8.24375057220459
+  },
+  {
+    "pair_id": "3305e0d1c27785167e83",
+    "label": 0,
+    "method": "clean",
+    "score": -7.700000286102295
+  },
+  {
+    "pair_id": "0f3f2f06a8c7b23a304d",
+    "label": 0,
+    "method": "clean",
+    "score": -7.731250286102295
+  },
+  {
+    "pair_id": "ef75b9b8dde6e19505a8",
+    "label": 0,
+    "method": "clean",
+    "score": -8.65000057220459
+  },
+  {
+    "pair_id": "e76482449f727dc26b2e",
+    "label": 0,
+    "method": "clean",
+    "score": -6.5625
+  },
+  {
+    "pair_id": "c2e2f7327eead96f9443",
+    "label": 0,
+    "method": "clean",
+    "score": -5.065625190734863
+  },
+  {
+    "pair_id": "0510f2fcc0b4a082dc30",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "481c3d0156478fc79bc8",
+    "label": 0,
+    "method": "clean",
+    "score": -5.509375095367432
+  },
+  {
+    "pair_id": "66b3d8dea629e5337fe3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.600000381469727
+  },
+  {
+    "pair_id": "647ddfa09f3fb6aca110",
+    "label": 0,
+    "method": "clean",
+    "score": -3.331249952316284
+  },
+  {
+    "pair_id": "d71f17bbaea78fd82517",
+    "label": 0,
+    "method": "clean",
+    "score": -8.053125381469727
+  },
+  {
+    "pair_id": "3ff4c4dc2dcb8c1c789d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "01ef0908932fe4dee063",
+    "label": 0,
+    "method": "clean",
+    "score": -9.75
+  },
+  {
+    "pair_id": "cccee5c37f4adc526e00",
+    "label": 0,
+    "method": "clean",
+    "score": -7.550000190734863
+  },
+  {
+    "pair_id": "87ff0ca7a8cf91b65d4b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.600000381469727
+  },
+  {
+    "pair_id": "ef8713b62e1b6742c610",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "69c0e667bfd16d2483c6",
+    "label": 0,
+    "method": "clean",
+    "score": -0.797656238079071
+  },
+  {
+    "pair_id": "b10d851d0d67a835d4fa",
+    "label": 0,
+    "method": "clean",
+    "score": -6.012500286102295
+  },
+  {
+    "pair_id": "00a4e3ebe0bbb146974a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.8125
+  },
+  {
+    "pair_id": "e596365a293ffbf423ae",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "a644e6bf914d6e1920da",
+    "label": 0,
+    "method": "clean",
+    "score": -8.77500057220459
+  },
+  {
+    "pair_id": "ddc11f3395573b8ad699",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "f6fd247dc148907adc47",
+    "label": 0,
+    "method": "clean",
+    "score": -6.993750095367432
+  },
+  {
+    "pair_id": "a2a271e435b82da52f38",
+    "label": 0,
+    "method": "clean",
+    "score": -7.615624904632568
+  },
+  {
+    "pair_id": "8e79036a8668bcf7a0e9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.425000190734863
+  },
+  {
+    "pair_id": "058c373d221bd4b9f711",
+    "label": 0,
+    "method": "clean",
+    "score": -8.96250057220459
+  },
+  {
+    "pair_id": "a48bb5532afd6cac1260",
+    "label": 0,
+    "method": "clean",
+    "score": -9.875
+  },
+  {
+    "pair_id": "b0aa4b90dd8cccecc8db",
+    "label": 0,
+    "method": "clean",
+    "score": -10.512499809265137
+  },
+  {
+    "pair_id": "d179c026bc1739958cd2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "768b0c3bc41abf490dab",
+    "label": 0,
+    "method": "clean",
+    "score": -9.287500381469727
+  },
+  {
+    "pair_id": "d078927386600e2da06c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.05625057220459
+  },
+  {
+    "pair_id": "ecf77f747f992c3868e1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "8e9a6cbe66955da5fa50",
+    "label": 0,
+    "method": "clean",
+    "score": -5.971875190734863
+  },
+  {
+    "pair_id": "3438dfd9b4b2a1b026d4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.112500190734863
+  },
+  {
+    "pair_id": "fa78a98309696584a6df",
+    "label": 0,
+    "method": "clean",
+    "score": -9.350000381469727
+  },
+  {
+    "pair_id": "3dd8bdf75c0c6712a1ab",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "9d4a30c1aa8836761eb5",
+    "label": 0,
+    "method": "clean",
+    "score": -8.074999809265137
+  },
+  {
+    "pair_id": "d7f265e882e234165254",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "0ef8a5b0ca6f13886c11",
+    "label": 0,
+    "method": "clean",
+    "score": -6.943749904632568
+  },
+  {
+    "pair_id": "6446be688f052a1ca3c3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.6875
+  },
+  {
+    "pair_id": "39e95422fa2f3324dbb2",
+    "label": 0,
+    "method": "clean",
+    "score": -6.693749904632568
+  },
+  {
+    "pair_id": "395a2e51036f87df0217",
+    "label": 0,
+    "method": "clean",
+    "score": -10.3125
+  },
+  {
+    "pair_id": "546ee355f8c057e3c38e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.96250057220459
+  },
+  {
+    "pair_id": "1bf7b08f4e12957970bf",
+    "label": 0,
+    "method": "clean",
+    "score": -8.675000190734863
+  },
+  {
+    "pair_id": "3234befeb02dde3da557",
+    "label": 0,
+    "method": "clean",
+    "score": -9.287500381469727
+  },
+  {
+    "pair_id": "6634c84e56f9ee7d128b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.393750190734863
+  },
+  {
+    "pair_id": "fbee7e00c4ed51afe676",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "4f2965733d14610d19f1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.876562595367432
+  },
+  {
+    "pair_id": "a9bce619f56ccee1eeca",
+    "label": 0,
+    "method": "clean",
+    "score": -8.268750190734863
+  },
+  {
+    "pair_id": "b96b0cbe92bade8d03ec",
+    "label": 0,
+    "method": "clean",
+    "score": -9.675000190734863
+  },
+  {
+    "pair_id": "dd92751c4d63aed36f8e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "89935d8f800080be1d71",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "cf5a514b99cc28f8ae99",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "488cf2a285430be06900",
+    "label": 0,
+    "method": "clean",
+    "score": -9.5625
+  },
+  {
+    "pair_id": "0171901b731afd903d90",
+    "label": 0,
+    "method": "clean",
+    "score": -9.49375057220459
+  },
+  {
+    "pair_id": "c7eebc74d3599d266c3c",
+    "label": 0,
+    "method": "clean",
+    "score": -7.075000286102295
+  },
+  {
+    "pair_id": "edb3607383e02ae0d965",
+    "label": 0,
+    "method": "clean",
+    "score": -6.512304782867432
+  },
+  {
+    "pair_id": "5bf24293d4d2d0fa67f7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.0
+  },
+  {
+    "pair_id": "2f1972ec906aaffbc091",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "43a4424215ba52fe0ff2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "72d2d0c5b6eae69533c0",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "4a130240a7acf5a2a3e9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.512499809265137
+  },
+  {
+    "pair_id": "318c089711f499a44e62",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0
+  },
+  {
+    "pair_id": "2c01dd57f3741ec273fc",
+    "label": 0,
+    "method": "clean",
+    "score": -9.6875
+  },
+  {
+    "pair_id": "8735e50e41ba9bff72a7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.8125
+  },
+  {
+    "pair_id": "3f43c9b319f9044ed66d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.96250057220459
+  },
+  {
+    "pair_id": "745bdcc22da0ec833de1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "6ed4719f54369948eef3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.375
+  },
+  {
+    "pair_id": "98086b253942b18c9a67",
+    "label": 0,
+    "method": "clean",
+    "score": -8.824999809265137
+  },
+  {
+    "pair_id": "39d494ae5c2b90d59cbe",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "39752211feeb48dfe457",
+    "label": 0,
+    "method": "clean",
+    "score": -9.387499809265137
+  },
+  {
+    "pair_id": "fc7cc325f4fdfc04858e",
+    "label": 0,
+    "method": "clean",
+    "score": 2.2875001430511475
+  },
+  {
+    "pair_id": "bc97c4c767b5c2f5dcd8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "32d7b92f7ef63fc0173e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.03125
+  },
+  {
+    "pair_id": "5254ebf6a275979a1ce9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.175000190734863
+  },
+  {
+    "pair_id": "7986a1943e29fdeb4a10",
+    "label": 0,
+    "method": "clean",
+    "score": -9.643750190734863
+  },
+  {
+    "pair_id": "fbf7b57db67d1f1383e3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "2ae001a98cd128891558",
+    "label": 0,
+    "method": "clean",
+    "score": -7.15625
+  },
+  {
+    "pair_id": "242223ca2c4e2425eb3e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.18125057220459
+  },
+  {
+    "pair_id": "725f8c4f1eb4a40e8877",
+    "label": 0,
+    "method": "clean",
+    "score": -9.318750381469727
+  },
+  {
+    "pair_id": "2e09e7be8a114895a8de",
+    "label": 0,
+    "method": "clean",
+    "score": -5.107421875
+  },
+  {
+    "pair_id": "21ab181990a76f654cbb",
+    "label": 0,
+    "method": "clean",
+    "score": -5.934375286102295
+  },
+  {
+    "pair_id": "c331f2178b5cc16f7e82",
+    "label": 0,
+    "method": "clean",
+    "score": -8.46250057220459
+  },
+  {
+    "pair_id": "937c092524c26ad77988",
+    "label": 0,
+    "method": "clean",
+    "score": -4.981250286102295
+  },
+  {
+    "pair_id": "cc12b250c71c2158a551",
+    "label": 0,
+    "method": "clean",
+    "score": -10.100000381469727
+  },
+  {
+    "pair_id": "0c95a6a9cd8ba2d4d21c",
+    "label": 0,
+    "method": "clean",
+    "score": -3.432812452316284
+  },
+  {
+    "pair_id": "02cb51d7cf6338066bfb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.737500190734863
+  },
+  {
+    "pair_id": "82f2d53133d26093022e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "a6318ee93249962ce09b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.212500095367432
+  },
+  {
+    "pair_id": "7761af2ca3c156bb4918",
+    "label": 0,
+    "method": "clean",
+    "score": -9.90000057220459
+  },
+  {
+    "pair_id": "e126b493128d1c683319",
+    "label": 0,
+    "method": "clean",
+    "score": -10.362500190734863
+  },
+  {
+    "pair_id": "9392ccbb71014a024bb2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.737500190734863
+  },
+  {
+    "pair_id": "5c517020e2fb21868e9b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.668749809265137
+  },
+  {
+    "pair_id": "f0d0c1b536d63d944d9c",
+    "label": 0,
+    "method": "clean",
+    "score": -7.943749904632568
+  },
+  {
+    "pair_id": "a344cc4d2caa2a8c01d9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.75
+  },
+  {
+    "pair_id": "dc94d4c024131e9abcc7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.8125
+  },
+  {
+    "pair_id": "220121d5b62205227bd2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.15000057220459
+  },
+  {
+    "pair_id": "31f1e3358850d1162f2f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.724999904632568
+  },
+  {
+    "pair_id": "c29cb54a75e9ac1f14a7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.71250057220459
+  },
+  {
+    "pair_id": "32d639467c319e08c7c2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.4375
+  },
+  {
+    "pair_id": "184a2be28f47e88b841a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.006250381469727
+  },
+  {
+    "pair_id": "cf91bad39c621dab1a58",
+    "label": 0,
+    "method": "clean",
+    "score": -8.27500057220459
+  },
+  {
+    "pair_id": "28a59e89e72c27f1232f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "6728b341d11d6d91daf5",
+    "label": 0,
+    "method": "clean",
+    "score": -6.715625286102295
+  },
+  {
+    "pair_id": "40efacc0cd7d2d345b60",
+    "label": 0,
+    "method": "clean",
+    "score": -7.868750095367432
+  },
+  {
+    "pair_id": "f80ca734049ffcde3ff8",
+    "label": 0,
+    "method": "clean",
+    "score": -9.350000381469727
+  },
+  {
+    "pair_id": "aaed255ea64220eeb99f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.40000057220459
+  },
+  {
+    "pair_id": "73d0ab858f8d32e1e2f0",
+    "label": 0,
+    "method": "clean",
+    "score": -9.418749809265137
+  },
+  {
+    "pair_id": "8d1f242bcdb29a5431a3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "6f2edb35e5ff401536a5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.387499809265137
+  },
+  {
+    "pair_id": "7a171585762561d15089",
+    "label": 0,
+    "method": "clean",
+    "score": -10.100000381469727
+  },
+  {
+    "pair_id": "f1a8731ca74f40524595",
+    "label": 0,
+    "method": "clean",
+    "score": -8.58750057220459
+  },
+  {
+    "pair_id": "60ea9c977845a26e0e9b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "6f21fe3270efab086825",
+    "label": 0,
+    "method": "clean",
+    "score": -0.15234375
+  },
+  {
+    "pair_id": "cb6eafd856930af3142b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.175000190734863
+  },
+  {
+    "pair_id": "2e59b1f598c298d5655a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.362500190734863
+  },
+  {
+    "pair_id": "822b88b09e3bc7f32ea4",
+    "label": 0,
+    "method": "clean",
+    "score": -7.362500190734863
+  },
+  {
+    "pair_id": "8f2f48fd45c34d2bff47",
+    "label": 0,
+    "method": "clean",
+    "score": -9.58750057220459
+  },
+  {
+    "pair_id": "5b3ebc4223453accf4ad",
+    "label": 0,
+    "method": "clean",
+    "score": -9.237500190734863
+  },
+  {
+    "pair_id": "6c9311368ce2ade3a9f8",
+    "label": 0,
+    "method": "clean",
+    "score": -6.075000286102295
+  },
+  {
+    "pair_id": "171d9a3bc152393e2cb2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "ca6035765652af4de7b9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.362500190734863
+  },
+  {
+    "pair_id": "e1ec65d953abe1c17b9b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.850000381469727
+  },
+  {
+    "pair_id": "a51f72ad5beb77640b83",
+    "label": 0,
+    "method": "clean",
+    "score": -9.71250057220459
+  },
+  {
+    "pair_id": "6d1798c1dc8b0d66a044",
+    "label": 0,
+    "method": "clean",
+    "score": -8.887499809265137
+  },
+  {
+    "pair_id": "c0476ab0b328a62bc3c0",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "23d69d9a95f8cca6e8d1",
+    "label": 0,
+    "method": "clean",
+    "score": -8.449999809265137
+  },
+  {
+    "pair_id": "8a3a6e534b8e712d2416",
+    "label": 0,
+    "method": "clean",
+    "score": -8.21875
+  },
+  {
+    "pair_id": "6b73937dbbeb48291660",
+    "label": 0,
+    "method": "clean",
+    "score": -9.90000057220459
+  },
+  {
+    "pair_id": "4722d89269b01c3add13",
+    "label": 0,
+    "method": "clean",
+    "score": -9.287500381469727
+  },
+  {
+    "pair_id": "ab7de29ed503fd46b10d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.912500381469727
+  },
+  {
+    "pair_id": "359d3444a354d59a9005",
+    "label": 0,
+    "method": "clean",
+    "score": -2.850390672683716
+  },
+  {
+    "pair_id": "cd4fdf55051d9e488118",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "589288df4f1eae6327dc",
+    "label": 0,
+    "method": "clean",
+    "score": -8.237500190734863
+  },
+  {
+    "pair_id": "ef924034bd85a526ba8e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "cc4cb48e234c82aa8511",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "ceb87b3650503f4ccdd6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "388473dfcb1b1aa2431f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.037500381469727
+  },
+  {
+    "pair_id": "ed464da1db0a74bf00bd",
+    "label": 0,
+    "method": "clean",
+    "score": -10.58750057220459
+  },
+  {
+    "pair_id": "e1e6db24cf56c47129a2",
+    "label": 0,
+    "method": "clean",
+    "score": -6.703125
+  },
+  {
+    "pair_id": "b1f8a6d2735a2a899fb3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.237500190734863
+  },
+  {
+    "pair_id": "6e55077b833406494718",
+    "label": 0,
+    "method": "clean",
+    "score": -9.75
+  },
+  {
+    "pair_id": "3fe99d976651ac93311d",
+    "label": 0,
+    "method": "clean",
+    "score": 7.474999904632568
+  },
+  {
+    "pair_id": "15f814fa8e902646a68e",
+    "label": 0,
+    "method": "clean",
+    "score": -4.873437404632568
+  },
+  {
+    "pair_id": "203404047e60fc188cac",
+    "label": 0,
+    "method": "clean",
+    "score": -9.3125
+  },
+  {
+    "pair_id": "1cea0a7a8d402e2f50aa",
+    "label": 0,
+    "method": "clean",
+    "score": -6.618750095367432
+  },
+  {
+    "pair_id": "1bcb9435f5415ae78975",
+    "label": 0,
+    "method": "clean",
+    "score": -8.643750190734863
+  },
+  {
+    "pair_id": "7545554d41af66b53a5d",
+    "label": 0,
+    "method": "clean",
+    "score": -7.981250286102295
+  },
+  {
+    "pair_id": "ac155825e83bcfd584a4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.912500381469727
+  },
+  {
+    "pair_id": "a520e7f213061283659f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.506249904632568
+  },
+  {
+    "pair_id": "1fd15e70e17f7d2d663b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.09375
+  },
+  {
+    "pair_id": "43ce9422c837eae5a190",
+    "label": 0,
+    "method": "clean",
+    "score": -8.443750381469727
+  },
+  {
+    "pair_id": "7359e05d06493be8f1e4",
+    "label": 0,
+    "method": "clean",
+    "score": -8.643750190734863
+  },
+  {
+    "pair_id": "843271c073c45f87f02c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "e1d4b3e3af50cea4631e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.287500381469727
+  },
+  {
+    "pair_id": "e2eb6cc235387ff8cd32",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "97b3b3ac45e3c8b3968e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.350000381469727
+  },
+  {
+    "pair_id": "2d720a9e42a0084c82a9",
+    "label": 0,
+    "method": "clean",
+    "score": -7.349218845367432
+  },
+  {
+    "pair_id": "9ac2981e8d966c1712bc",
+    "label": 0,
+    "method": "clean",
+    "score": -8.387499809265137
+  },
+  {
+    "pair_id": "d3280bf71aca9197dbc5",
+    "label": 0,
+    "method": "clean",
+    "score": -8.231249809265137
+  },
+  {
+    "pair_id": "8e14b117656a73f8c0be",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "22c32a7de1a283d6212b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.875
+  },
+  {
+    "pair_id": "3e36712d72a657379a5e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.175000190734863
+  },
+  {
+    "pair_id": "38b4ca7ebe4bf93116ca",
+    "label": 0,
+    "method": "clean",
+    "score": -8.675000190734863
+  },
+  {
+    "pair_id": "89268c3210a4f1a3e9b1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.0625
+  },
+  {
+    "pair_id": "73b0c124fb707cae50bf",
+    "label": 0,
+    "method": "clean",
+    "score": -9.800000190734863
+  },
+  {
+    "pair_id": "de34b2f783650cec37d7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.262499809265137
+  },
+  {
+    "pair_id": "3fb504250bc2eafadcf1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.25
+  },
+  {
+    "pair_id": "4038a03b7035ef952f1f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.662500381469727
+  },
+  {
+    "pair_id": "a8cbe49657c1963eb057",
+    "label": 0,
+    "method": "clean",
+    "score": -5.206250190734863
+  },
+  {
+    "pair_id": "2d20e3e45b0e9649367d",
+    "label": 0,
+    "method": "clean",
+    "score": -7.493750095367432
+  },
+  {
+    "pair_id": "e470e9b3209691c4681f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.11875057220459
+  },
+  {
+    "pair_id": "07373e56c9c09259dd97",
+    "label": 0,
+    "method": "clean",
+    "score": -8.40000057220459
+  },
+  {
+    "pair_id": "64e86e4c8a8d36a9d38a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.618750095367432
+  },
+  {
+    "pair_id": "d88dff177ceba98cfafd",
+    "label": 0,
+    "method": "clean",
+    "score": -9.887499809265137
+  },
+  {
+    "pair_id": "223dd1fb9b32b2d266c4",
+    "label": 0,
+    "method": "clean",
+    "score": -7.962500095367432
+  },
+  {
+    "pair_id": "794e14c2ed785ed18cc0",
+    "label": 0,
+    "method": "clean",
+    "score": -6.212500095367432
+  },
+  {
+    "pair_id": "c04c26ac924e34acf82c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.02500057220459
+  },
+  {
+    "pair_id": "c3aee6673dfc82d088c2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.787500381469727
+  },
+  {
+    "pair_id": "10b8b84adc2eb8d6726e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "da39d8ae50910599770e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.268750190734863
+  },
+  {
+    "pair_id": "ec337535cfbcdd8e301f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.71875
+  },
+  {
+    "pair_id": "4ef56dce108e21eaef8e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.324999809265137
+  },
+  {
+    "pair_id": "8deca096a751454df7f0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.475000381469727
+  },
+  {
+    "pair_id": "1783d71da4f8f6f46f65",
+    "label": 0,
+    "method": "clean",
+    "score": -7.700000286102295
+  },
+  {
+    "pair_id": "8167a9812af604d98c60",
+    "label": 0,
+    "method": "clean",
+    "score": -9.262499809265137
+  },
+  {
+    "pair_id": "a3d6a19ccd059d64497e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "3b56b11c39035d16e6a7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.100000381469727
+  },
+  {
+    "pair_id": "b77618fca3dbd9f2a2db",
+    "label": 0,
+    "method": "clean",
+    "score": -7.856250286102295
+  },
+  {
+    "pair_id": "500109069e3295581593",
+    "label": 0,
+    "method": "clean",
+    "score": -2.3335938453674316
+  },
+  {
+    "pair_id": "5072cf1fd1481740b638",
+    "label": 0,
+    "method": "clean",
+    "score": -10.02500057220459
+  },
+  {
+    "pair_id": "6443dbfc8fc2cbeea25c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5625
+  },
+  {
+    "pair_id": "4e56f3b5735655b43804",
+    "label": 0,
+    "method": "clean",
+    "score": -4.859375
+  },
+  {
+    "pair_id": "589f31830a3e0a6d16fe",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "70d5b6e7be409c52651f",
+    "label": 0,
+    "method": "clean",
+    "score": -5.987500190734863
+  },
+  {
+    "pair_id": "9ca860f8f4fd50ed066d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.3125
+  },
+  {
+    "pair_id": "184f7153cbcbac461e56",
+    "label": 0,
+    "method": "clean",
+    "score": -9.481249809265137
+  },
+  {
+    "pair_id": "0d72de2fa9871b4e9f00",
+    "label": 0,
+    "method": "clean",
+    "score": -9.050000190734863
+  },
+  {
+    "pair_id": "fbf18c59de709368b4f6",
+    "label": 0,
+    "method": "clean",
+    "score": -5.525000095367432
+  },
+  {
+    "pair_id": "8f80eb5ad624f049628a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "ca29570da83e4558ab66",
+    "label": 0,
+    "method": "clean",
+    "score": -8.59375
+  },
+  {
+    "pair_id": "e490b613d4c1dbc09885",
+    "label": 0,
+    "method": "clean",
+    "score": -8.71250057220459
+  },
+  {
+    "pair_id": "da0f7bf8d1a86b5863ca",
+    "label": 0,
+    "method": "clean",
+    "score": -8.30625057220459
+  },
+  {
+    "pair_id": "1d4fdcc8513e9ee63fc2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "5a8ddb90767e9515ed4f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.693750381469727
+  },
+  {
+    "pair_id": "cd9c94294038a6e538b4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "9c2189bddea0d479115a",
+    "label": 0,
+    "method": "clean",
+    "score": -6.474999904632568
+  },
+  {
+    "pair_id": "4f472381fe1b73fef358",
+    "label": 0,
+    "method": "clean",
+    "score": -8.600000381469727
+  },
+  {
+    "pair_id": "c8857252c22e3fb6f494",
+    "label": 0,
+    "method": "clean",
+    "score": -7.53125
+  },
+  {
+    "pair_id": "6fc97c8b8fa52139322b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "f3fc63393d279bbef8a2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.850000381469727
+  },
+  {
+    "pair_id": "a395bce948d855a9d92f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.1875
+  },
+  {
+    "pair_id": "970fb0b5b24e5de0d78d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.887499809265137
+  },
+  {
+    "pair_id": "edc5c9e8979b849d238a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.474999904632568
+  },
+  {
+    "pair_id": "0989dcb325f9b99ab8c6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.412500381469727
+  },
+  {
+    "pair_id": "40b9fc3c12bdf03f0fdd",
+    "label": 0,
+    "method": "clean",
+    "score": -8.33750057220459
+  },
+  {
+    "pair_id": "1eeca069ada1e9f4cd5b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.581250190734863
+  },
+  {
+    "pair_id": "dc102cf3749081fc6d8d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.949999809265137
+  },
+  {
+    "pair_id": "5c7861d19fc710446feb",
+    "label": 0,
+    "method": "clean",
+    "score": -8.637499809265137
+  },
+  {
+    "pair_id": "2831d967f281ce9ca9d2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "0e218fe2ac44d76e6984",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "0f2ca2980ad040db8d46",
+    "label": 0,
+    "method": "clean",
+    "score": -6.993750095367432
+  },
+  {
+    "pair_id": "196bcf4f322e582833fb",
+    "label": 0,
+    "method": "clean",
+    "score": -7.206250190734863
+  },
+  {
+    "pair_id": "9281c12ed141c759eac3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.3125
+  },
+  {
+    "pair_id": "a4168c5519c07b5b51a4",
+    "label": 0,
+    "method": "clean",
+    "score": -8.912500381469727
+  },
+  {
+    "pair_id": "fb238d73c24932e3a1cf",
+    "label": 0,
+    "method": "clean",
+    "score": -8.293749809265137
+  },
+  {
+    "pair_id": "4b1221c6f5a0b83ceb89",
+    "label": 0,
+    "method": "clean",
+    "score": -9.012499809265137
+  },
+  {
+    "pair_id": "e67f2136aedc98445e76",
+    "label": 0,
+    "method": "clean",
+    "score": -8.43125057220459
+  },
+  {
+    "pair_id": "4a6536b8513c2a2eab6b",
+    "label": 0,
+    "method": "clean",
+    "score": -6.556250095367432
+  },
+  {
+    "pair_id": "315480fba0a5ca441808",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "6e7de987f5cb95af3565",
+    "label": 0,
+    "method": "clean",
+    "score": -8.5625
+  },
+  {
+    "pair_id": "48bde4f3263b89b38f5f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "4fb37c16fa2333542259",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "e8c66193be23322e67aa",
+    "label": 0,
+    "method": "clean",
+    "score": -9.5625
+  },
+  {
+    "pair_id": "3ee083f7d2834278abfd",
+    "label": 0,
+    "method": "clean",
+    "score": -9.112500190734863
+  },
+  {
+    "pair_id": "d86f399ae498eb557a22",
+    "label": 0,
+    "method": "clean",
+    "score": -9.787500381469727
+  },
+  {
+    "pair_id": "a28875d397c1ef791f79",
+    "label": 0,
+    "method": "clean",
+    "score": -8.9375
+  },
+  {
+    "pair_id": "f59630d26204f941519a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.143750190734863
+  },
+  {
+    "pair_id": "87dba76530012713c3f2",
+    "label": 0,
+    "method": "clean",
+    "score": -8.34375
+  },
+  {
+    "pair_id": "8c98034253cb21bd7d2b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "73c18f4e299a64e089aa",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "f78a079b1ac37b083f15",
+    "label": 0,
+    "method": "clean",
+    "score": -7.9375
+  },
+  {
+    "pair_id": "758800c43cad8b6fc2fc",
+    "label": 0,
+    "method": "clean",
+    "score": -6.337500095367432
+  },
+  {
+    "pair_id": "de758da4ec3d3d2a4231",
+    "label": 0,
+    "method": "clean",
+    "score": -5.890625
+  },
+  {
+    "pair_id": "e60b86b738d830672dae",
+    "label": 0,
+    "method": "clean",
+    "score": -9.475000381469727
+  },
+  {
+    "pair_id": "0cdbaacf867bdbe2d047",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "f161d783a14e3ed59015",
+    "label": 0,
+    "method": "clean",
+    "score": -5.668750286102295
+  },
+  {
+    "pair_id": "d7399dcaf2916c56d373",
+    "label": 0,
+    "method": "clean",
+    "score": -9.143750190734863
+  },
+  {
+    "pair_id": "798beeae8d5938dd0da2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "d3226bb23912e72719ed",
+    "label": 0,
+    "method": "clean",
+    "score": -7.556250095367432
+  },
+  {
+    "pair_id": "e16ac2d8d86875ad69d7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.800000190734863
+  },
+  {
+    "pair_id": "8f04799f1974e80ec96d",
+    "label": 0,
+    "method": "clean",
+    "score": -6.978125095367432
+  },
+  {
+    "pair_id": "e04f3fcfce8676bb313f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "78b99ff46b6f17faa25a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.15000057220459
+  },
+  {
+    "pair_id": "f99d3643040cc21a8852",
+    "label": 0,
+    "method": "clean",
+    "score": -7.118750095367432
+  },
+  {
+    "pair_id": "effeaffd4fe9b47eb17a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.081250190734863
+  },
+  {
+    "pair_id": "c054b04c1230946ea9c7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.83750057220459
+  },
+  {
+    "pair_id": "6a427e6e84d9f2610a16",
+    "label": 0,
+    "method": "clean",
+    "score": -7.006249904632568
+  },
+  {
+    "pair_id": "556a50f62ba5f5141bd5",
+    "label": 0,
+    "method": "clean",
+    "score": -9.0
+  },
+  {
+    "pair_id": "7c0136a9c48f9c6e8056",
+    "label": 0,
+    "method": "clean",
+    "score": -7.381249904632568
+  },
+  {
+    "pair_id": "0dab11bbe4dd6039e7ed",
+    "label": 0,
+    "method": "clean",
+    "score": -5.329883098602295
+  },
+  {
+    "pair_id": "004ee05f035e07483e22",
+    "label": 0,
+    "method": "clean",
+    "score": -9.18125057220459
+  },
+  {
+    "pair_id": "556f9342b49bcdb76bbe",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "2c2e56a71beac95e94b7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "08426ae407c981dccf12",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "55baf0c5ca6adec61971",
+    "label": 0,
+    "method": "clean",
+    "score": -8.631250381469727
+  },
+  {
+    "pair_id": "25a66a0a2887349d4566",
+    "label": 0,
+    "method": "clean",
+    "score": -7.962500095367432
+  },
+  {
+    "pair_id": "0700e06bfcbf5f9ba199",
+    "label": 0,
+    "method": "clean",
+    "score": -7.450000286102295
+  },
+  {
+    "pair_id": "2091d32da61cf2dbe378",
+    "label": 0,
+    "method": "clean",
+    "score": -9.637499809265137
+  },
+  {
+    "pair_id": "b7eda6854b03bc40d5dd",
+    "label": 0,
+    "method": "clean",
+    "score": -8.9375
+  },
+  {
+    "pair_id": "64be375508b6a691a9b8",
+    "label": 0,
+    "method": "clean",
+    "score": -9.08750057220459
+  },
+  {
+    "pair_id": "e84d05ec96e2b16f2dde",
+    "label": 0,
+    "method": "clean",
+    "score": -7.112500190734863
+  },
+  {
+    "pair_id": "612f6af2d81e446f0aec",
+    "label": 0,
+    "method": "clean",
+    "score": -8.362500190734863
+  },
+  {
+    "pair_id": "de292bd34571325b75f5",
+    "label": 0,
+    "method": "clean",
+    "score": -9.393750190734863
+  },
+  {
+    "pair_id": "0a67d1f4d5153a19b681",
+    "label": 0,
+    "method": "clean",
+    "score": -9.0
+  },
+  {
+    "pair_id": "f23444b3b09b3b38cb5f",
+    "label": 0,
+    "method": "clean",
+    "score": -4.190625190734863
+  },
+  {
+    "pair_id": "b627d379e082a2d649a8",
+    "label": 0,
+    "method": "clean",
+    "score": 3.9375
+  },
+  {
+    "pair_id": "761f4f053c1ceecc65bd",
+    "label": 0,
+    "method": "clean",
+    "score": -5.693749904632568
+  },
+  {
+    "pair_id": "c6cb438d8c7331680bbc",
+    "label": 0,
+    "method": "clean",
+    "score": -9.443750381469727
+  },
+  {
+    "pair_id": "96be8dba7666187a1977",
+    "label": 0,
+    "method": "clean",
+    "score": -7.287499904632568
+  },
+  {
+    "pair_id": "2fe4dad9498b6d95ecdd",
+    "label": 0,
+    "method": "clean",
+    "score": -8.375
+  },
+  {
+    "pair_id": "4f75543a298efadc78e8",
+    "label": 0,
+    "method": "clean",
+    "score": -5.653125286102295
+  },
+  {
+    "pair_id": "8903b9b6ffe74b62c715",
+    "label": 0,
+    "method": "clean",
+    "score": -6.631249904632568
+  },
+  {
+    "pair_id": "c438deadff7465e6601c",
+    "label": 0,
+    "method": "clean",
+    "score": -6.831250190734863
+  },
+  {
+    "pair_id": "57ea6c869ba5d9a781a3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.168749809265137
+  },
+  {
+    "pair_id": "9a77dbefd01ac4aeead4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "876b63be23d41750e2ee",
+    "label": 0,
+    "method": "clean",
+    "score": -4.821875095367432
+  },
+  {
+    "pair_id": "129d1abf32a60cef4878",
+    "label": 0,
+    "method": "clean",
+    "score": -9.75
+  },
+  {
+    "pair_id": "b5056c1e032454b642ab",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "051047ea5895a3f66ada",
+    "label": 0,
+    "method": "clean",
+    "score": -10.52500057220459
+  },
+  {
+    "pair_id": "41e623e058032001cb7d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.050000190734863
+  },
+  {
+    "pair_id": "1d4c2034610e26d42326",
+    "label": 0,
+    "method": "clean",
+    "score": -6.265625
+  },
+  {
+    "pair_id": "0236a334ea95916fac09",
+    "label": 0,
+    "method": "clean",
+    "score": -8.475000381469727
+  },
+  {
+    "pair_id": "cdc60bd9708e4084b128",
+    "label": 0,
+    "method": "clean",
+    "score": -5.784375190734863
+  },
+  {
+    "pair_id": "546c0f6895d21492441e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "7ab664254cee2f2b2e7b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.412500381469727
+  },
+  {
+    "pair_id": "72fd107441b12fe25290",
+    "label": 0,
+    "method": "clean",
+    "score": -8.27500057220459
+  },
+  {
+    "pair_id": "b10e7849a35a990acbb0",
+    "label": 0,
+    "method": "clean",
+    "score": -7.3125
+  },
+  {
+    "pair_id": "f47a390e484dd2608904",
+    "label": 0,
+    "method": "clean",
+    "score": -9.03125
+  },
+  {
+    "pair_id": "bdbf64f91e475eeafd3d",
+    "label": 0,
+    "method": "clean",
+    "score": -4.359375
+  },
+  {
+    "pair_id": "15ea1451fe4d6e50b828",
+    "label": 0,
+    "method": "clean",
+    "score": -6.818749904632568
+  },
+  {
+    "pair_id": "85e1d39356ce4d31b4ad",
+    "label": 0,
+    "method": "clean",
+    "score": -8.225000381469727
+  },
+  {
+    "pair_id": "e248371ef0e5b806b7a4",
+    "label": 0,
+    "method": "clean",
+    "score": -8.34375
+  },
+  {
+    "pair_id": "29a50e2f274f8ee576e0",
+    "label": 0,
+    "method": "clean",
+    "score": -4.443749904632568
+  },
+  {
+    "pair_id": "6ae8605094446797197f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.78125
+  },
+  {
+    "pair_id": "a3773e3fa0d28fd62921",
+    "label": 0,
+    "method": "clean",
+    "score": -8.96250057220459
+  },
+  {
+    "pair_id": "67e7cf61912e489c1fd6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.787500381469727
+  },
+  {
+    "pair_id": "e14141607744e911741c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.537500381469727
+  },
+  {
+    "pair_id": "bcba9e46fa0551541ee8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "68df0d17b64422d73d06",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "515bfc7775aa9ef538b1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.034375190734863
+  },
+  {
+    "pair_id": "7fcf3f8e8b1efe37bf59",
+    "label": 0,
+    "method": "clean",
+    "score": -0.6187500357627869
+  },
+  {
+    "pair_id": "9d25c3c911d8455ad672",
+    "label": 0,
+    "method": "clean",
+    "score": -6.59375
+  },
+  {
+    "pair_id": "b07d72f31c3bdd0be75c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.4375
+  },
+  {
+    "pair_id": "75cbe62056ea32b5c7f5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "db10b55783dfbd0a03f9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.675000190734863
+  },
+  {
+    "pair_id": "50681f80344b9cf2cdef",
+    "label": 0,
+    "method": "clean",
+    "score": -7.106250286102295
+  },
+  {
+    "pair_id": "79ef243572f41072cf30",
+    "label": 0,
+    "method": "clean",
+    "score": -6.712500095367432
+  },
+  {
+    "pair_id": "ecacb56c5440069e081f",
+    "label": 0,
+    "method": "clean",
+    "score": -6.334374904632568
+  },
+  {
+    "pair_id": "41bbc3677d0575f5dcdc",
+    "label": 0,
+    "method": "clean",
+    "score": -8.612500190734863
+  },
+  {
+    "pair_id": "682b6f322afc3d353107",
+    "label": 0,
+    "method": "clean",
+    "score": -4.909375190734863
+  },
+  {
+    "pair_id": "21bfb8cf42876cb6f240",
+    "label": 0,
+    "method": "clean",
+    "score": -7.787499904632568
+  },
+  {
+    "pair_id": "a68dd944e56c6000313b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.324999809265137
+  },
+  {
+    "pair_id": "806f53069eba7d8d187d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.5625
+  },
+  {
+    "pair_id": "de33d2722f1babe32943",
+    "label": 0,
+    "method": "clean",
+    "score": -7.430859565734863
+  },
+  {
+    "pair_id": "f61239d4119064074a88",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "040c800d2b8977ee86ea",
+    "label": 0,
+    "method": "clean",
+    "score": -7.956250190734863
+  },
+  {
+    "pair_id": "a893ce7ec20196dbcc1e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.262499809265137
+  },
+  {
+    "pair_id": "ab41f852281e38fb668c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.600000381469727
+  },
+  {
+    "pair_id": "a517ae2b137d5433c9e6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "1f0b9a0f7d12b182a5fd",
+    "label": 0,
+    "method": "clean",
+    "score": -9.5
+  },
+  {
+    "pair_id": "2ff552d4eac8045d211a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.012499809265137
+  },
+  {
+    "pair_id": "edfd336962388646bf06",
+    "label": 0,
+    "method": "clean",
+    "score": -6.665625095367432
+  },
+  {
+    "pair_id": "9d062673641e459d1686",
+    "label": 0,
+    "method": "clean",
+    "score": -6.556250095367432
+  },
+  {
+    "pair_id": "df59970996a4fa086a4c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "b58f1f84fae1fc130e68",
+    "label": 0,
+    "method": "clean",
+    "score": -10.46250057220459
+  },
+  {
+    "pair_id": "a73409b777b977b818ec",
+    "label": 0,
+    "method": "clean",
+    "score": -8.86875057220459
+  },
+  {
+    "pair_id": "d187f8cb54a7f754f31c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.71250057220459
+  },
+  {
+    "pair_id": "5525d7fb94a8c617bcf7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.737500190734863
+  },
+  {
+    "pair_id": "6376771253ed4ce57981",
+    "label": 0,
+    "method": "clean",
+    "score": -10.425000190734863
+  },
+  {
+    "pair_id": "530de16c52a1fea1d159",
+    "label": 0,
+    "method": "clean",
+    "score": -7.681250095367432
+  },
+  {
+    "pair_id": "faab5e98a3a8476558e7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.143750190734863
+  },
+  {
+    "pair_id": "103e0869c5395e8a1bea",
+    "label": 0,
+    "method": "clean",
+    "score": -8.581250190734863
+  },
+  {
+    "pair_id": "405280381d7de196820b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.356249809265137
+  },
+  {
+    "pair_id": "c038c3b23b9d2f0b3f95",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "f2d3d179737c2332f02e",
+    "label": 0,
+    "method": "clean",
+    "score": -5.743750095367432
+  },
+  {
+    "pair_id": "8c4741cb718358c8c39e",
+    "label": 0,
+    "method": "clean",
+    "score": -7.015625
+  },
+  {
+    "pair_id": "d17aeba1d518fcbea8e4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.27500057220459
+  },
+  {
+    "pair_id": "09ba40014b63ec93a034",
+    "label": 0,
+    "method": "clean",
+    "score": -10.637499809265137
+  },
+  {
+    "pair_id": "5af2f6a96afa29b6a063",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "840428f6f240a2c9a5e2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.050000190734863
+  },
+  {
+    "pair_id": "20a554a72a0743b8c42f",
+    "label": 0,
+    "method": "clean",
+    "score": -8.78125
+  },
+  {
+    "pair_id": "3efde167f95594900e61",
+    "label": 0,
+    "method": "clean",
+    "score": -7.631249904632568
+  },
+  {
+    "pair_id": "5fcb1d75dd212709116a",
+    "label": 0,
+    "method": "clean",
+    "score": -5.512500286102295
+  },
+  {
+    "pair_id": "0ae3f552fd61401657ff",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0
+  },
+  {
+    "pair_id": "6848555f78db02ae0b43",
+    "label": 0,
+    "method": "clean",
+    "score": 0.8746094107627869
+  },
+  {
+    "pair_id": "f3a2be7d3f4a3bded5de",
+    "label": 0,
+    "method": "clean",
+    "score": -8.987500190734863
+  },
+  {
+    "pair_id": "a92e37506e2b86703bb6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.68125057220459
+  },
+  {
+    "pair_id": "fe8e5b5df5e07bb3ee42",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "2a1518c9c06b48248a1c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.33750057220459
+  },
+  {
+    "pair_id": "1caf4bebb1863bf44b04",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "19dd4bc30bd7cae3834c",
+    "label": 0,
+    "method": "clean",
+    "score": -8.106249809265137
+  },
+  {
+    "pair_id": "ec7d70e9385ab567098b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.887499809265137
+  },
+  {
+    "pair_id": "815d63541fef137bb573",
+    "label": 0,
+    "method": "clean",
+    "score": -10.21250057220459
+  },
+  {
+    "pair_id": "a13d0775eff7a1d8ac0c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.456250190734863
+  },
+  {
+    "pair_id": "0fdfff1c20869f29aba9",
+    "label": 0,
+    "method": "clean",
+    "score": -2.737499952316284
+  },
+  {
+    "pair_id": "939bd6c728d70c4fc4e3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.824999809265137
+  },
+  {
+    "pair_id": "bb2720a90277ba1e8c68",
+    "label": 0,
+    "method": "clean",
+    "score": -10.425000190734863
+  },
+  {
+    "pair_id": "06197ec15e4df6b28512",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "da4dd3f5c7f9a362bd00",
+    "label": 0,
+    "method": "clean",
+    "score": -9.725000381469727
+  },
+  {
+    "pair_id": "be45ca980aa8f5aa7eb3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.162500381469727
+  },
+  {
+    "pair_id": "4117457dfcde94ab9c66",
+    "label": 0,
+    "method": "clean",
+    "score": -8.487500190734863
+  },
+  {
+    "pair_id": "d0c691ee7437ec70a75f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.02500057220459
+  },
+  {
+    "pair_id": "939b6d6ef69483df0d82",
+    "label": 0,
+    "method": "clean",
+    "score": -9.293749809265137
+  },
+  {
+    "pair_id": "1c2d4eec81aaf9b641c3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.15000057220459
+  },
+  {
+    "pair_id": "8d7ae23b78fb01ad15b5",
+    "label": 0,
+    "method": "clean",
+    "score": -8.237500190734863
+  },
+  {
+    "pair_id": "c6108f4f25770e6f0e10",
+    "label": 0,
+    "method": "clean",
+    "score": -8.949999809265137
+  },
+  {
+    "pair_id": "520280cb2113933b380c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.15000057220459
+  },
+  {
+    "pair_id": "2227a5ac03d2fdc35140",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "6fb4779b1d0dac91c85d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "af86327b088b806b697c",
+    "label": 0,
+    "method": "clean",
+    "score": -8.4375
+  },
+  {
+    "pair_id": "f58a5e3275d657591cb3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "bea1b0d275f503d736c3",
+    "label": 0,
+    "method": "clean",
+    "score": -7.650000095367432
+  },
+  {
+    "pair_id": "12f60fc2e601c94a1d02",
+    "label": 0,
+    "method": "clean",
+    "score": -8.268750190734863
+  },
+  {
+    "pair_id": "32dadfadef5c3cc1d553",
+    "label": 0,
+    "method": "clean",
+    "score": -7.34375
+  },
+  {
+    "pair_id": "2ebadf350aceaa0e21f6",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "d82d7fe554e2a4e40203",
+    "label": 0,
+    "method": "clean",
+    "score": -8.862500190734863
+  },
+  {
+    "pair_id": "f088b89d0c0aa2edbba6",
+    "label": 0,
+    "method": "clean",
+    "score": -10.537500381469727
+  },
+  {
+    "pair_id": "ab94702a7df9f34934d9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "232f23f513191cb5101a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0
+  },
+  {
+    "pair_id": "ce1405851c1ad55bbe46",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "3f20260231e0286ed64f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.810937404632568
+  },
+  {
+    "pair_id": "dfe8d8504e7812eee9e0",
+    "label": 0,
+    "method": "clean",
+    "score": -9.925000190734863
+  },
+  {
+    "pair_id": "44698640fd1cc654a4dc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.050000190734863
+  },
+  {
+    "pair_id": "c915ff966813492afff1",
+    "label": 0,
+    "method": "clean",
+    "score": -7.28125
+  },
+  {
+    "pair_id": "e5d4c938582967d23f69",
+    "label": 0,
+    "method": "clean",
+    "score": -8.1875
+  },
+  {
+    "pair_id": "e3cab0400a4df0549cc6",
+    "label": 0,
+    "method": "clean",
+    "score": -8.443750381469727
+  },
+  {
+    "pair_id": "2f1710b5685e6d638386",
+    "label": 0,
+    "method": "clean",
+    "score": -10.08750057220459
+  },
+  {
+    "pair_id": "ff2db5ed04c523a93825",
+    "label": 0,
+    "method": "clean",
+    "score": -8.5625
+  },
+  {
+    "pair_id": "55047423aabcb9dfeacc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "c270a6d1a494bac9435d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.08750057220459
+  },
+  {
+    "pair_id": "49faa576d75c9ee90539",
+    "label": 0,
+    "method": "clean",
+    "score": -6.556250095367432
+  },
+  {
+    "pair_id": "6f33a1f4e86c699816fa",
+    "label": 0,
+    "method": "clean",
+    "score": -9.21250057220459
+  },
+  {
+    "pair_id": "cfeb66fd81a7eeac46f5",
+    "label": 0,
+    "method": "clean",
+    "score": -6.025000095367432
+  },
+  {
+    "pair_id": "cfcf7b628b02c290ecf5",
+    "label": 0,
+    "method": "clean",
+    "score": -6.75
+  },
+  {
+    "pair_id": "c4dba20257fb87fe67dc",
+    "label": 0,
+    "method": "clean",
+    "score": -7.918750286102295
+  },
+  {
+    "pair_id": "fc2e3472d3d85be9b243",
+    "label": 0,
+    "method": "clean",
+    "score": -10.050000190734863
+  },
+  {
+    "pair_id": "8c187e1cfc9e703171e5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.425000190734863
+  },
+  {
+    "pair_id": "78ab1e8908cd0c194db4",
+    "label": 0,
+    "method": "clean",
+    "score": -2.2796876430511475
+  },
+  {
+    "pair_id": "80caab3237ac3040e70e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.387499809265137
+  },
+  {
+    "pair_id": "135d802f7890bcd161d8",
+    "label": 0,
+    "method": "clean",
+    "score": -8.8125
+  },
+  {
+    "pair_id": "64c6204a68ed1aa7a39c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "2421c176c78cc1d7616a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "81b2ad69a28dc29445b3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.18125057220459
+  },
+  {
+    "pair_id": "3779157e3fd857a9119f",
+    "label": 0,
+    "method": "clean",
+    "score": -4.974218845367432
+  },
+  {
+    "pair_id": "24e82a1f231229708a6c",
+    "label": 0,
+    "method": "clean",
+    "score": -7.1875
+  },
+  {
+    "pair_id": "17154377375c2ae191d5",
+    "label": 0,
+    "method": "clean",
+    "score": -9.3125
+  },
+  {
+    "pair_id": "923e04fd66c54aa91813",
+    "label": 0,
+    "method": "clean",
+    "score": -9.21875
+  },
+  {
+    "pair_id": "427dfb2e1a4fd52f00d2",
+    "label": 0,
+    "method": "clean",
+    "score": -5.837500095367432
+  },
+  {
+    "pair_id": "3f31a0902e4c3d6211c2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.9375
+  },
+  {
+    "pair_id": "cba24163dd56be322dc3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.512499809265137
+  },
+  {
+    "pair_id": "0e3b915d2fd9a39ad07c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.8125
+  },
+  {
+    "pair_id": "7dd0e1fad0de54d085bb",
+    "label": 0,
+    "method": "clean",
+    "score": -8.8125
+  },
+  {
+    "pair_id": "13171575245487e242bb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.975000381469727
+  },
+  {
+    "pair_id": "4cb047a32b4918e2e10b",
+    "label": 0,
+    "method": "clean",
+    "score": -8.4375
+  },
+  {
+    "pair_id": "8ba905a93c338c485dad",
+    "label": 0,
+    "method": "clean",
+    "score": -10.175000190734863
+  },
+  {
+    "pair_id": "9b4087f2da7ed3dc2935",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "bbec4472d035fad4d888",
+    "label": 0,
+    "method": "clean",
+    "score": -9.77500057220459
+  },
+  {
+    "pair_id": "1602e66b203b76beebc3",
+    "label": 0,
+    "method": "clean",
+    "score": -8.33750057220459
+  },
+  {
+    "pair_id": "4622f67b6fd525821e10",
+    "label": 0,
+    "method": "clean",
+    "score": -9.737500190734863
+  },
+  {
+    "pair_id": "05783d74d4c39b4e6670",
+    "label": 0,
+    "method": "clean",
+    "score": -9.96250057220459
+  },
+  {
+    "pair_id": "4800d803e2ac989e2eb1",
+    "label": 0,
+    "method": "clean",
+    "score": -6.775000095367432
+  },
+  {
+    "pair_id": "e8e9bd1d0a201169b1f2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.050000190734863
+  },
+  {
+    "pair_id": "8fb68f69b04a6464ad81",
+    "label": 0,
+    "method": "clean",
+    "score": -9.21250057220459
+  },
+  {
+    "pair_id": "5dbb224fa8a3cf73578c",
+    "label": 0,
+    "method": "clean",
+    "score": -6.518750190734863
+  },
+  {
+    "pair_id": "5e15dfdd8bb9d57b021b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.912500381469727
+  },
+  {
+    "pair_id": "6ed47c15397061e6ea5e",
+    "label": 0,
+    "method": "clean",
+    "score": -6.131249904632568
+  },
+  {
+    "pair_id": "e48feb27266653c7d234",
+    "label": 0,
+    "method": "clean",
+    "score": -4.573437690734863
+  },
+  {
+    "pair_id": "da0113b83ed5857a09f3",
+    "label": 0,
+    "method": "clean",
+    "score": -5.53125
+  },
+  {
+    "pair_id": "2fc3a12555d1d3b4c12a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.375
+  },
+  {
+    "pair_id": "3f0ef74ea8b59cf5b688",
+    "label": 0,
+    "method": "clean",
+    "score": -9.550000190734863
+  },
+  {
+    "pair_id": "7a645180b4d01a948cf1",
+    "label": 0,
+    "method": "clean",
+    "score": -8.675000190734863
+  },
+  {
+    "pair_id": "a6238c2784b366a240c2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "71100c57cf2d1a782ada",
+    "label": 0,
+    "method": "clean",
+    "score": -9.237500190734863
+  },
+  {
+    "pair_id": "7a67486cdf1ed000e65c",
+    "label": 0,
+    "method": "clean",
+    "score": -7.381249904632568
+  },
+  {
+    "pair_id": "b13930221d9ccc9ad90e",
+    "label": 0,
+    "method": "clean",
+    "score": -4.634570598602295
+  },
+  {
+    "pair_id": "5933f5fcfa65e313e0f0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.193750381469727
+  },
+  {
+    "pair_id": "4c8096ffed660ffa28b2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "4235026d9edea2f55340",
+    "label": 0,
+    "method": "clean",
+    "score": -5.561718940734863
+  },
+  {
+    "pair_id": "ccf752412c7dd0e244a8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.625
+  },
+  {
+    "pair_id": "7d42a85c998e7f1dbea7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.15625
+  },
+  {
+    "pair_id": "68cdc5f0518d3bb0e7af",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "91b5fd00e786653f4d9a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "76b96579d0089f92b97a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.65000057220459
+  },
+  {
+    "pair_id": "511ec0a11b1d8fdecb83",
+    "label": 0,
+    "method": "clean",
+    "score": -8.268750190734863
+  },
+  {
+    "pair_id": "7788adfa13f4bbf5c682",
+    "label": 0,
+    "method": "clean",
+    "score": -7.012500286102295
+  },
+  {
+    "pair_id": "c3484439a1931fc2eb22",
+    "label": 0,
+    "method": "clean",
+    "score": -9.481249809265137
+  },
+  {
+    "pair_id": "d054f66f8d255d25b4e5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "a277c5d77c78a63bb5f9",
+    "label": 0,
+    "method": "clean",
+    "score": -8.574999809265137
+  },
+  {
+    "pair_id": "6d26e24f4c6d7d3febba",
+    "label": 0,
+    "method": "clean",
+    "score": -9.387499809265137
+  },
+  {
+    "pair_id": "e8bd30a3a04b74112039",
+    "label": 0,
+    "method": "clean",
+    "score": -9.362500190734863
+  },
+  {
+    "pair_id": "948d6938a37e15f0ec6e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.449999809265137
+  },
+  {
+    "pair_id": "c99d5b142a88f00a54c7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.6875
+  },
+  {
+    "pair_id": "db20bf8d2355960e7a94",
+    "label": 0,
+    "method": "clean",
+    "score": -4.409375190734863
+  },
+  {
+    "pair_id": "ca75553fbc09ad5f4f95",
+    "label": 0,
+    "method": "clean",
+    "score": -10.512499809265137
+  },
+  {
+    "pair_id": "89894c8f48387d2d5b6a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.15625
+  },
+  {
+    "pair_id": "b66586905360c3274f0e",
+    "label": 0,
+    "method": "clean",
+    "score": -8.137499809265137
+  },
+  {
+    "pair_id": "4de4ce1698cee600afea",
+    "label": 0,
+    "method": "clean",
+    "score": -10.475000381469727
+  },
+  {
+    "pair_id": "720328a1346fee39982c",
+    "label": 0,
+    "method": "clean",
+    "score": -8.8125
+  },
+  {
+    "pair_id": "b47b0f30249f030da621",
+    "label": 0,
+    "method": "clean",
+    "score": -6.075000286102295
+  },
+  {
+    "pair_id": "36fc8462608a5189fa62",
+    "label": 0,
+    "method": "clean",
+    "score": -9.65625
+  },
+  {
+    "pair_id": "85d66e28cbfb1202ee9d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "9c3bfa4bd2d5c06989a7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.787500381469727
+  },
+  {
+    "pair_id": "daa4fed1a2aac76a929e",
+    "label": 0,
+    "method": "clean",
+    "score": -5.753125190734863
+  },
+  {
+    "pair_id": "ddc8682383cf316fb259",
+    "label": 0,
+    "method": "clean",
+    "score": -8.09375
+  },
+  {
+    "pair_id": "41431361eb4cd314b7f2",
+    "label": 0,
+    "method": "clean",
+    "score": -8.756250381469727
+  },
+  {
+    "pair_id": "45c7ae0cb61abd334f15",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "00129b9eb8caabb55bca",
+    "label": 0,
+    "method": "clean",
+    "score": -9.481249809265137
+  },
+  {
+    "pair_id": "4ce5af9642eaf374dbd3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "e4fff6c54762a75a297e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "69e6f3c717d68c86474d",
+    "label": 0,
+    "method": "clean",
+    "score": -7.625
+  },
+  {
+    "pair_id": "bc85661e95766f873e42",
+    "label": 0,
+    "method": "clean",
+    "score": -9.78125
+  },
+  {
+    "pair_id": "b02929046a9783909ecd",
+    "label": 0,
+    "method": "clean",
+    "score": -5.739062786102295
+  },
+  {
+    "pair_id": "3ec4a15718abfc87b92f",
+    "label": 0,
+    "method": "clean",
+    "score": -7.900000095367432
+  },
+  {
+    "pair_id": "c59ff28bd1bfbf4b3e5d",
+    "label": 0,
+    "method": "clean",
+    "score": -5.596875190734863
+  },
+  {
+    "pair_id": "adb5da634becf3f9bb42",
+    "label": 0,
+    "method": "clean",
+    "score": -6.712500095367432
+  },
+  {
+    "pair_id": "c0961dcc8ef04a5a4e79",
+    "label": 0,
+    "method": "clean",
+    "score": -9.199999809265137
+  },
+  {
+    "pair_id": "bf4befbb42e786636955",
+    "label": 0,
+    "method": "clean",
+    "score": -8.24375057220459
+  },
+  {
+    "pair_id": "338cd643dd34cc3ac77c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "4685e0445f246b7b0ca2",
+    "label": 0,
+    "method": "clean",
+    "score": -5.115624904632568
+  },
+  {
+    "pair_id": "f595e49d0a41aaaa4ae6",
+    "label": 0,
+    "method": "clean",
+    "score": -8.125
+  },
+  {
+    "pair_id": "f62decaad60c58bcb634",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "f0ad03deaa0a90f6f633",
+    "label": 0,
+    "method": "clean",
+    "score": -3.0892579555511475
+  },
+  {
+    "pair_id": "6635669f027abe7c3b81",
+    "label": 0,
+    "method": "clean",
+    "score": -6.875
+  },
+  {
+    "pair_id": "2ad7b9d78b6fceee09a2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "b0a4e9989c8662d7bfc3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "21e6e338af1d770292ea",
+    "label": 0,
+    "method": "clean",
+    "score": -10.3125
+  },
+  {
+    "pair_id": "c487d5fbb06f11d0e27b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.581250190734863
+  },
+  {
+    "pair_id": "22e61598199f68aef497",
+    "label": 0,
+    "method": "clean",
+    "score": -5.65625
+  },
+  {
+    "pair_id": "0436832ee22c113d07a9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.74375057220459
+  },
+  {
+    "pair_id": "46ad5e7e445f24026ba4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.65000057220459
+  },
+  {
+    "pair_id": "e7ae9b7cb85767df4a65",
+    "label": 0,
+    "method": "clean",
+    "score": -9.96250057220459
+  },
+  {
+    "pair_id": "03959a44408bd0f441a0",
+    "label": 0,
+    "method": "clean",
+    "score": -4.431250095367432
+  },
+  {
+    "pair_id": "52b1a85357799acfecce",
+    "label": 0,
+    "method": "clean",
+    "score": -6.693749904632568
+  },
+  {
+    "pair_id": "d4c6bc395eb2e2db723c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.550000190734863
+  },
+  {
+    "pair_id": "ef6922c3668e700aa419",
+    "label": 0,
+    "method": "clean",
+    "score": -9.112500190734863
+  },
+  {
+    "pair_id": "b87132cdae4c6d13f569",
+    "label": 0,
+    "method": "clean",
+    "score": -7.653125286102295
+  },
+  {
+    "pair_id": "2bfc39c915649604bebf",
+    "label": 0,
+    "method": "clean",
+    "score": -6.090625286102295
+  },
+  {
+    "pair_id": "99f90ff9dcdf3546f46d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.09375
+  },
+  {
+    "pair_id": "ddbfe033413abda451fd",
+    "label": 0,
+    "method": "clean",
+    "score": -6.415625095367432
+  },
+  {
+    "pair_id": "23b78cdf887fd6651d45",
+    "label": 0,
+    "method": "clean",
+    "score": -6.224999904632568
+  },
+  {
+    "pair_id": "070a46ac9e5e0f1042df",
+    "label": 0,
+    "method": "clean",
+    "score": -10.125
+  },
+  {
+    "pair_id": "5ff6ea39e99e85720719",
+    "label": 0,
+    "method": "clean",
+    "score": -11.02500057220459
+  },
+  {
+    "pair_id": "cd35c1ffd2db54dabce1",
+    "label": 0,
+    "method": "clean",
+    "score": -10.46250057220459
+  },
+  {
+    "pair_id": "faa458c90e0c055ee4dc",
+    "label": 0,
+    "method": "clean",
+    "score": -8.256250381469727
+  },
+  {
+    "pair_id": "52056c2b19a1815de3dd",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "97af5df6155c8fa73448",
+    "label": 0,
+    "method": "clean",
+    "score": -9.25
+  },
+  {
+    "pair_id": "b01804fbc3ab050109ac",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "6482eebfae6f9fcdab64",
+    "label": 0,
+    "method": "clean",
+    "score": -10.83750057220459
+  },
+  {
+    "pair_id": "4928d5bd93f8c5902e03",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "5e79dd37f49c07675de0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.28125
+  },
+  {
+    "pair_id": "97f05aafbb5024bca50a",
+    "label": 0,
+    "method": "clean",
+    "score": -5.393750190734863
+  },
+  {
+    "pair_id": "e5b8cf4b24cee6f0c502",
+    "label": 0,
+    "method": "clean",
+    "score": -10.08750057220459
+  },
+  {
+    "pair_id": "968e3b780d06a1fb47ba",
+    "label": 0,
+    "method": "clean",
+    "score": -8.543749809265137
+  },
+  {
+    "pair_id": "c10faca5a94f028d71a6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.600000381469727
+  },
+  {
+    "pair_id": "d2097cd54e796efbade4",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "0ff82f9b067216e4f0f4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.08750057220459
+  },
+  {
+    "pair_id": "e8c285052b4fa1a31173",
+    "label": 0,
+    "method": "clean",
+    "score": -10.46250057220459
+  },
+  {
+    "pair_id": "55430e6f311478dd9061",
+    "label": 0,
+    "method": "clean",
+    "score": -2.706249952316284
+  },
+  {
+    "pair_id": "76e7c678629ad54cfb4b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.475000381469727
+  },
+  {
+    "pair_id": "41d4615f757ec132202a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.52500057220459
+  },
+  {
+    "pair_id": "15c2410c40980fd9c10c",
+    "label": 0,
+    "method": "clean",
+    "score": -7.356250286102295
+  },
+  {
+    "pair_id": "524014933e77b2740e8d",
+    "label": 0,
+    "method": "clean",
+    "score": -6.306250095367432
+  },
+  {
+    "pair_id": "f0c064783055810f7fff",
+    "label": 0,
+    "method": "clean",
+    "score": -8.68125057220459
+  },
+  {
+    "pair_id": "ef3154be792de4af49f8",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "f9ca0a9c3d01d6709bf5",
+    "label": 0,
+    "method": "clean",
+    "score": -5.7109375
+  },
+  {
+    "pair_id": "7c8d81cefa0c49521f79",
+    "label": 0,
+    "method": "clean",
+    "score": -8.8125
+  },
+  {
+    "pair_id": "52712de08342ea171e07",
+    "label": 0,
+    "method": "clean",
+    "score": -8.512499809265137
+  },
+  {
+    "pair_id": "0eda22cc6fd557ecffc9",
+    "label": 0,
+    "method": "clean",
+    "score": -7.556250095367432
+  },
+  {
+    "pair_id": "f1c6076932554309b60c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "9256f34bc2d35658d26a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.175000190734863
+  },
+  {
+    "pair_id": "53be8fe6aa9db3bb87b9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "4e83dbfea7dc3597533b",
+    "label": 0,
+    "method": "clean",
+    "score": -4.712500095367432
+  },
+  {
+    "pair_id": "c12efedca0b4513a4d99",
+    "label": 0,
+    "method": "clean",
+    "score": -4.795312404632568
+  },
+  {
+    "pair_id": "ee97a6f56fcae179de51",
+    "label": 0,
+    "method": "clean",
+    "score": -8.818750381469727
+  },
+  {
+    "pair_id": "fc8f85c6ffee194b7c6b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.724999904632568
+  },
+  {
+    "pair_id": "181608a11fe48d2dfa36",
+    "label": 0,
+    "method": "clean",
+    "score": -7.9375
+  },
+  {
+    "pair_id": "dd5e301d7011b76b7057",
+    "label": 0,
+    "method": "clean",
+    "score": -3.4828126430511475
+  },
+  {
+    "pair_id": "2c67d41634a8d23a3a70",
+    "label": 0,
+    "method": "clean",
+    "score": -9.725000381469727
+  },
+  {
+    "pair_id": "f64f499c4995aa718054",
+    "label": 0,
+    "method": "clean",
+    "score": -7.387500286102295
+  },
+  {
+    "pair_id": "b8475e0732138ef2a629",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "bcafe613b9a6bc9b3402",
+    "label": 0,
+    "method": "clean",
+    "score": -6.0
+  },
+  {
+    "pair_id": "f61139229000229b0af0",
+    "label": 0,
+    "method": "clean",
+    "score": -9.762499809265137
+  },
+  {
+    "pair_id": "bdf789838c1b161f9935",
+    "label": 0,
+    "method": "clean",
+    "score": -8.46250057220459
+  },
+  {
+    "pair_id": "19658f3f119ef149e0fe",
+    "label": 0,
+    "method": "clean",
+    "score": -10.625
+  },
+  {
+    "pair_id": "82611832fb410424ba13",
+    "label": 0,
+    "method": "clean",
+    "score": -8.27500057220459
+  },
+  {
+    "pair_id": "efeb3a01e0513e3cadcb",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "af898d3b72b12dbf97fd",
+    "label": 0,
+    "method": "clean",
+    "score": -7.881249904632568
+  },
+  {
+    "pair_id": "b6e721c3068ae9df075d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.387499809265137
+  },
+  {
+    "pair_id": "4bbc365f119acc9d31ad",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0
+  },
+  {
+    "pair_id": "bd7a60e2761e5aa48ed3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.625
+  },
+  {
+    "pair_id": "0abdfb652bb7a6fad24e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.21250057220459
+  },
+  {
+    "pair_id": "d84c980bf28550d31b69",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "a51e081c00660c243d16",
+    "label": 0,
+    "method": "clean",
+    "score": -8.0
+  },
+  {
+    "pair_id": "5782f6c3d174eab61922",
+    "label": 0,
+    "method": "clean",
+    "score": -8.206250190734863
+  },
+  {
+    "pair_id": "988249d73c4fa3625ce0",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "ae8358ed32270a28378e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "c2b70aff33eb91dd7d6d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.831250190734863
+  },
+  {
+    "pair_id": "c21135302a3b7aed7c97",
+    "label": 0,
+    "method": "clean",
+    "score": -9.887499809265137
+  },
+  {
+    "pair_id": "851616bb858880065a9e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.574999809265137
+  },
+  {
+    "pair_id": "3637f591833a73f533c0",
+    "label": 0,
+    "method": "clean",
+    "score": -8.6875
+  },
+  {
+    "pair_id": "bd27a5430f7c74147f37",
+    "label": 0,
+    "method": "clean",
+    "score": -6.456250190734863
+  },
+  {
+    "pair_id": "b10417f2e8c4d254c918",
+    "label": 0,
+    "method": "clean",
+    "score": -8.706250190734863
+  },
+  {
+    "pair_id": "e7a13c89b36ce84729d7",
+    "label": 0,
+    "method": "clean",
+    "score": -9.137499809265137
+  },
+  {
+    "pair_id": "e50174df62fac68680af",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "fdd398f661dfb9974027",
+    "label": 0,
+    "method": "clean",
+    "score": -9.537500381469727
+  },
+  {
+    "pair_id": "480ed1096ca4e3baa03b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.662500381469727
+  },
+  {
+    "pair_id": "35d3ece3963170ae045a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.324999809265137
+  },
+  {
+    "pair_id": "d897fbeea16227d65dbd",
+    "label": 0,
+    "method": "clean",
+    "score": -8.643750190734863
+  },
+  {
+    "pair_id": "e0df8f39b94bb30bff1b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "561a1dc9e19d40304358",
+    "label": 0,
+    "method": "clean",
+    "score": -6.581250190734863
+  },
+  {
+    "pair_id": "ee4dc4baefe63e370cc2",
+    "label": 0,
+    "method": "clean",
+    "score": -9.800000190734863
+  },
+  {
+    "pair_id": "4a61acd040982f69fe7a",
+    "label": 0,
+    "method": "clean",
+    "score": -7.96875
+  },
+  {
+    "pair_id": "f7d1785ac5e78bd1199a",
+    "label": 0,
+    "method": "clean",
+    "score": -8.425000190734863
+  },
+  {
+    "pair_id": "7722388427b4945db231",
+    "label": 0,
+    "method": "clean",
+    "score": -6.1875
+  },
+  {
+    "pair_id": "fce8b5f1937b1a005809",
+    "label": 0,
+    "method": "clean",
+    "score": -6.0625
+  },
+  {
+    "pair_id": "2ee16db8ad2d5daa5119",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "caa47382c543cb56d004",
+    "label": 0,
+    "method": "clean",
+    "score": -9.949999809265137
+  },
+  {
+    "pair_id": "8f97e8653aec7e6650fb",
+    "label": 0,
+    "method": "clean",
+    "score": -9.418749809265137
+  },
+  {
+    "pair_id": "944990629b709e686ffb",
+    "label": 0,
+    "method": "clean",
+    "score": -7.018750190734863
+  },
+  {
+    "pair_id": "723fd9d1dfce271d3830",
+    "label": 0,
+    "method": "clean",
+    "score": -0.7984375357627869
+  },
+  {
+    "pair_id": "a3f50b1601e951b139b9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.225000381469727
+  },
+  {
+    "pair_id": "3fcc11e21c8492688858",
+    "label": 0,
+    "method": "clean",
+    "score": -5.138671875
+  },
+  {
+    "pair_id": "16645008ab3a9d2576e6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.443750381469727
+  },
+  {
+    "pair_id": "4cd52990680dbd39bf80",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "68b83553df2fbdebdf87",
+    "label": 0,
+    "method": "clean",
+    "score": -9.4375
+  },
+  {
+    "pair_id": "12b832e6f2c30a5189a4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "dbcf2144d323c6b7cfac",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "5d25eecbd8bbaa68770a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.612500190734863
+  },
+  {
+    "pair_id": "69c6443cf47438c014e2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "e59abcd926f182d9712d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.362500190734863
+  },
+  {
+    "pair_id": "996643edcfa4691bbf8d",
+    "label": 0,
+    "method": "clean",
+    "score": -9.800000190734863
+  },
+  {
+    "pair_id": "a93334936e8ee73c0bfc",
+    "label": 0,
+    "method": "clean",
+    "score": -9.5
+  },
+  {
+    "pair_id": "564bd26dcbb021a7b791",
+    "label": 0,
+    "method": "clean",
+    "score": -8.787500381469727
+  },
+  {
+    "pair_id": "9e8a7f467f5a6c893a99",
+    "label": 0,
+    "method": "clean",
+    "score": -10.27500057220459
+  },
+  {
+    "pair_id": "cff95015defcea99f91e",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "cbffe5afbd559cf642d6",
+    "label": 0,
+    "method": "clean",
+    "score": -10.362500190734863
+  },
+  {
+    "pair_id": "a5460edcc626cce26c38",
+    "label": 0,
+    "method": "clean",
+    "score": -10.824999809265137
+  },
+  {
+    "pair_id": "64eb50eaa93c24220228",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "bfb721a41fd1b37d6eda",
+    "label": 0,
+    "method": "clean",
+    "score": -9.443750381469727
+  },
+  {
+    "pair_id": "3bdddf7098dc587975c7",
+    "label": 0,
+    "method": "clean",
+    "score": -10.300000190734863
+  },
+  {
+    "pair_id": "8eea78a018a6c3da39d9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5625
+  },
+  {
+    "pair_id": "93c93a01f03f8d24beec",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "714ae8d2d0e427e84332",
+    "label": 0,
+    "method": "clean",
+    "score": -10.175000190734863
+  },
+  {
+    "pair_id": "8c255a353e514947851a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.71250057220459
+  },
+  {
+    "pair_id": "a82051f06f8ff72af7bf",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "0fcc61b1fda10ab8d008",
+    "label": 0,
+    "method": "clean",
+    "score": -10.6875
+  },
+  {
+    "pair_id": "b5ddff076b13d19624df",
+    "label": 0,
+    "method": "clean",
+    "score": -9.33750057220459
+  },
+  {
+    "pair_id": "2d044cf12508c4578520",
+    "label": 0,
+    "method": "clean",
+    "score": -10.412500381469727
+  },
+  {
+    "pair_id": "6b803c4968a5f0495fb5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.21250057220459
+  },
+  {
+    "pair_id": "d6cf7e73b51c380e0535",
+    "label": 0,
+    "method": "clean",
+    "score": -10.08750057220459
+  },
+  {
+    "pair_id": "d9aee4990bd57d125d84",
+    "label": 0,
+    "method": "clean",
+    "score": -10.27500057220459
+  },
+  {
+    "pair_id": "4f023861ab97b7e789da",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "1bd0bfd48d6ff90db3ea",
+    "label": 0,
+    "method": "clean",
+    "score": -9.949999809265137
+  },
+  {
+    "pair_id": "23ee61ab3a5a7a072cd1",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "09b1c3115b0c4a62561b",
+    "label": 0,
+    "method": "clean",
+    "score": -10.77500057220459
+  },
+  {
+    "pair_id": "5a9457078f2912f96c64",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "d05f2e197318e39bd710",
+    "label": 0,
+    "method": "clean",
+    "score": -9.506250381469727
+  },
+  {
+    "pair_id": "c3342ab3e4ba1de213b5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.675000190734863
+  },
+  {
+    "pair_id": "bc1f42076342826d0f6c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.225000381469727
+  },
+  {
+    "pair_id": "7b0d0477970370225090",
+    "label": 0,
+    "method": "clean",
+    "score": -9.25
+  },
+  {
+    "pair_id": "fa4497db7841ca54beba",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "ed12dfd3d2de56dadc74",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "535959a169a6a14dd3ea",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "77f3e04abbe88b1e730f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.824999809265137
+  },
+  {
+    "pair_id": "bbfb5081882cceb00d59",
+    "label": 0,
+    "method": "clean",
+    "score": -10.012499809265137
+  },
+  {
+    "pair_id": "8eac4f2bdfbe7909f701",
+    "label": 0,
+    "method": "clean",
+    "score": -9.949999809265137
+  },
+  {
+    "pair_id": "e1ccd8c443c5816bb772",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "66db41d332bae05a2ff6",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "8f1b79b0a235f244506d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.537500381469727
+  },
+  {
+    "pair_id": "0f89caa65166d8459a22",
+    "label": 0,
+    "method": "clean",
+    "score": -9.793749809265137
+  },
+  {
+    "pair_id": "0a229c9d8e673ae93e4d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "f606bb02024059409c6a",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "3a3ed0a4814659566e01",
+    "label": 0,
+    "method": "clean",
+    "score": -10.012499809265137
+  },
+  {
+    "pair_id": "f24e5d95576beedd3754",
+    "label": 0,
+    "method": "clean",
+    "score": -10.074999809265137
+  },
+  {
+    "pair_id": "99e1c86f053146abfd96",
+    "label": 0,
+    "method": "clean",
+    "score": -10.612500190734863
+  },
+  {
+    "pair_id": "e73b77f1559198567b58",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "94106680276ab075b387",
+    "label": 0,
+    "method": "clean",
+    "score": -10.46250057220459
+  },
+  {
+    "pair_id": "e47fd6bbaa768f9e810f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "f058ee800486dbea93b2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.412500381469727
+  },
+  {
+    "pair_id": "8a40fb2ceaca4599d0cc",
+    "label": 0,
+    "method": "clean",
+    "score": -10.612500190734863
+  },
+  {
+    "pair_id": "51f022ecd3369d27d05f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.58750057220459
+  },
+  {
+    "pair_id": "b9cf033a12297e9ff7de",
+    "label": 0,
+    "method": "clean",
+    "score": -8.94687557220459
+  },
+  {
+    "pair_id": "eb079e8761ec87055f98",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "e1248a47b4e1ee64d669",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "a1d90f55a71e832a1847",
+    "label": 0,
+    "method": "clean",
+    "score": -10.21250057220459
+  },
+  {
+    "pair_id": "33d0763dc64fbba058f3",
+    "label": 0,
+    "method": "clean",
+    "score": -9.881250381469727
+  },
+  {
+    "pair_id": "57fd8736cf18339dabed",
+    "label": 0,
+    "method": "clean",
+    "score": -6.349999904632568
+  },
+  {
+    "pair_id": "a9cf6f6b9cd1edee6331",
+    "label": 0,
+    "method": "clean",
+    "score": -10.412500381469727
+  },
+  {
+    "pair_id": "292afad30c619a80137f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.475000381469727
+  },
+  {
+    "pair_id": "102965103d0815706caf",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "ab5cd81046cc9f3d2153",
+    "label": 0,
+    "method": "clean",
+    "score": -10.1875
+  },
+  {
+    "pair_id": "c7331cf0a812cb665c59",
+    "label": 0,
+    "method": "clean",
+    "score": -10.037500381469727
+  },
+  {
+    "pair_id": "be37bc0b85df0a97a724",
+    "label": 0,
+    "method": "clean",
+    "score": -9.606249809265137
+  },
+  {
+    "pair_id": "3e1c712b61e3d0181aa1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.912500381469727
+  },
+  {
+    "pair_id": "eb91ba999d14c6f22ab8",
+    "label": 0,
+    "method": "clean",
+    "score": -10.612500190734863
+  },
+  {
+    "pair_id": "475ca2fe3c10cf7fab50",
+    "label": 0,
+    "method": "clean",
+    "score": -9.862500190734863
+  },
+  {
+    "pair_id": "de51d36fceb5e9d3e771",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "cfb9c50261436d56dced",
+    "label": 0,
+    "method": "clean",
+    "score": -10.77500057220459
+  },
+  {
+    "pair_id": "6eb39e9b47b4a4592880",
+    "label": 0,
+    "method": "clean",
+    "score": -10.662500381469727
+  },
+  {
+    "pair_id": "2e0a1ab0c246ed541235",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "38c210fc2d3a9c722108",
+    "label": 0,
+    "method": "clean",
+    "score": -9.612500190734863
+  },
+  {
+    "pair_id": "0dcf7943c92bb0eca18c",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "8a07805c5b792a53cb17",
+    "label": 0,
+    "method": "clean",
+    "score": -10.5
+  },
+  {
+    "pair_id": "5c22f00044e272b5e4b2",
+    "label": 0,
+    "method": "clean",
+    "score": -10.350000381469727
+  },
+  {
+    "pair_id": "b318bd7ce652b9aff9c6",
+    "label": 0,
+    "method": "clean",
+    "score": -9.912500381469727
+  },
+  {
+    "pair_id": "704e76cfefb7fe52b0fe",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "c0cc7c6d30299a5235d9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.537500381469727
+  },
+  {
+    "pair_id": "cf9c9a4da64c55ab1e64",
+    "label": 0,
+    "method": "clean",
+    "score": -10.02500057220459
+  },
+  {
+    "pair_id": "e8fd7579f7acdf5c8d2a",
+    "label": 0,
+    "method": "clean",
+    "score": -9.762499809265137
+  },
+  {
+    "pair_id": "38b745bfd03a747c0962",
+    "label": 0,
+    "method": "clean",
+    "score": -10.40000057220459
+  },
+  {
+    "pair_id": "8e666041db9fa1f03f5d",
+    "label": 0,
+    "method": "clean",
+    "score": -10.412500381469727
+  },
+  {
+    "pair_id": "2316f0f1f2e10c2c5312",
+    "label": 0,
+    "method": "clean",
+    "score": -10.15000057220459
+  },
+  {
+    "pair_id": "bd7cd711b5de10cc0d08",
+    "label": 0,
+    "method": "clean",
+    "score": -10.574999809265137
+  },
+  {
+    "pair_id": "781a28ecbb44b5d9b7e0",
+    "label": 0,
+    "method": "clean",
+    "score": -9.699999809265137
+  },
+  {
+    "pair_id": "18e7c779d4738a683b39",
+    "label": 0,
+    "method": "clean",
+    "score": -9.18125057220459
+  },
+  {
+    "pair_id": "9cb892ea7917ab78e013",
+    "label": 0,
+    "method": "clean",
+    "score": -10.100000381469727
+  },
+  {
+    "pair_id": "d2a94c82fbe8acc4a011",
+    "label": 0,
+    "method": "clean",
+    "score": -9.987500190734863
+  },
+  {
+    "pair_id": "40f522a3ccfe1dd7e3bf",
+    "label": 0,
+    "method": "clean",
+    "score": -10.625
+  },
+  {
+    "pair_id": "fc9a5e87d4ca5818cc99",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "96cbf85ca9b6a288ab15",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "57fe5c7c1a3598e1cd06",
+    "label": 0,
+    "method": "clean",
+    "score": -10.6875
+  },
+  {
+    "pair_id": "cd610316a5eb365d9960",
+    "label": 0,
+    "method": "clean",
+    "score": -7.692187786102295
+  },
+  {
+    "pair_id": "b4fa503c101757473031",
+    "label": 0,
+    "method": "clean",
+    "score": -10.237500190734863
+  },
+  {
+    "pair_id": "47dbfb738723be1a91f9",
+    "label": 0,
+    "method": "clean",
+    "score": -7.883203029632568
+  },
+  {
+    "pair_id": "b0caf4d37b0f5ba1b853",
+    "label": 0,
+    "method": "clean",
+    "score": -6.951562404632568
+  },
+  {
+    "pair_id": "2ef4de24215ce2ecc7f3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.112500190734863
+  },
+  {
+    "pair_id": "1a717bbbf031ab9b23aa",
+    "label": 0,
+    "method": "clean",
+    "score": -7.831250190734863
+  },
+  {
+    "pair_id": "9c2355578ea67f6ffbe4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "f69333aebd590bb3743c",
+    "label": 0,
+    "method": "clean",
+    "score": -9.25
+  },
+  {
+    "pair_id": "adbd0ced6c0f298997a4",
+    "label": 0,
+    "method": "clean",
+    "score": -10.27500057220459
+  },
+  {
+    "pair_id": "2012dd184422ea18fe6f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.25
+  },
+  {
+    "pair_id": "e00e6cf1d58728b54c13",
+    "label": 0,
+    "method": "clean",
+    "score": -8.912500381469727
+  },
+  {
+    "pair_id": "1787f4fb7dff9fbc2257",
+    "label": 0,
+    "method": "clean",
+    "score": -10.33750057220459
+  },
+  {
+    "pair_id": "dc9465e46d1858892f3d",
+    "label": 0,
+    "method": "clean",
+    "score": -8.574999809265137
+  },
+  {
+    "pair_id": "67fb3de52732f04525da",
+    "label": 0,
+    "method": "clean",
+    "score": -6.673828125
+  },
+  {
+    "pair_id": "036faf33c3c215ee3999",
+    "label": 0,
+    "method": "clean",
+    "score": -10.287500381469727
+  },
+  {
+    "pair_id": "a1f8f9855a18180820b8",
+    "label": 0,
+    "method": "clean",
+    "score": -8.756250381469727
+  },
+  {
+    "pair_id": "101da056d7f29fed2f08",
+    "label": 0,
+    "method": "clean",
+    "score": -9.324999809265137
+  },
+  {
+    "pair_id": "22b7815b81027c406110",
+    "label": 0,
+    "method": "clean",
+    "score": -6.818749904632568
+  },
+  {
+    "pair_id": "a0d15a88ac9ceae8ea9c",
+    "label": 0,
+    "method": "clean",
+    "score": -7.506249904632568
+  },
+  {
+    "pair_id": "8b10b2bef7359cb9387b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.518750190734863
+  },
+  {
+    "pair_id": "49a5fba916d20a93b8d9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.02500057220459
+  },
+  {
+    "pair_id": "f73f80b7796cc2c2889b",
+    "label": 0,
+    "method": "clean",
+    "score": -9.71250057220459
+  },
+  {
+    "pair_id": "b91804ad0bdc5fd26b05",
+    "label": 0,
+    "method": "clean",
+    "score": -4.056250095367432
+  },
+  {
+    "pair_id": "672e09efb0c0c0ddb8df",
+    "label": 0,
+    "method": "clean",
+    "score": -8.706250190734863
+  },
+  {
+    "pair_id": "86cf9003940f5d087f49",
+    "label": 0,
+    "method": "clean",
+    "score": -9.162500381469727
+  },
+  {
+    "pair_id": "944f08ca779eee638a0b",
+    "label": 0,
+    "method": "clean",
+    "score": -7.643750190734863
+  },
+  {
+    "pair_id": "048caa38dcee317ac4f7",
+    "label": 0,
+    "method": "clean",
+    "score": -8.375
+  },
+  {
+    "pair_id": "e8928b9ad6079ff588c9",
+    "label": 0,
+    "method": "clean",
+    "score": -7.456250190734863
+  },
+  {
+    "pair_id": "36f1b82740e4f35bf9ad",
+    "label": 0,
+    "method": "clean",
+    "score": -10.0625
+  },
+  {
+    "pair_id": "a01364a217d388667965",
+    "label": 0,
+    "method": "clean",
+    "score": -8.893750190734863
+  },
+  {
+    "pair_id": "b420ff489ac021bd9107",
+    "label": 0,
+    "method": "clean",
+    "score": -8.5625
+  },
+  {
+    "pair_id": "b4848a3cc7622d9fe975",
+    "label": 0,
+    "method": "clean",
+    "score": -7.162499904632568
+  },
+  {
+    "pair_id": "287df32f82f3a65eb720",
+    "label": 0,
+    "method": "clean",
+    "score": -9.83750057220459
+  },
+  {
+    "pair_id": "688ab6c05d7fc0ce3ce9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.300000190734863
+  },
+  {
+    "pair_id": "db238b01a467890c60d1",
+    "label": 0,
+    "method": "clean",
+    "score": -10.46250057220459
+  },
+  {
+    "pair_id": "92d82e733287cac67eea",
+    "label": 0,
+    "method": "clean",
+    "score": -10.487500190734863
+  },
+  {
+    "pair_id": "e0f7a224bee1934fe64f",
+    "label": 0,
+    "method": "clean",
+    "score": -10.625
+  },
+  {
+    "pair_id": "a0c9294c578ad835bbc5",
+    "label": 0,
+    "method": "clean",
+    "score": -10.199999809265137
+  },
+  {
+    "pair_id": "beaf8e723e2f18322de9",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "01a535b89d3fa1636eac",
+    "label": 0,
+    "method": "clean",
+    "score": -10.52500057220459
+  },
+  {
+    "pair_id": "865bfd70faf60f3f7d2e",
+    "label": 0,
+    "method": "clean",
+    "score": -9.574999809265137
+  },
+  {
+    "pair_id": "53ce15f6fd87cd3545c1",
+    "label": 0,
+    "method": "clean",
+    "score": -9.918749809265137
+  },
+  {
+    "pair_id": "c20883fac04c66f4ac2f",
+    "label": 0,
+    "method": "clean",
+    "score": -9.287500381469727
+  },
+  {
+    "pair_id": "1c15d0d1d7b1146b2e79",
+    "label": 0,
+    "method": "clean",
+    "score": -10.83750057220459
+  },
+  {
+    "pair_id": "9adf4e0a9b057dd77a87",
+    "label": 0,
+    "method": "clean",
+    "score": -10.137499809265137
+  },
+  {
+    "pair_id": "e8845ef552ca5317c2f3",
+    "label": 0,
+    "method": "clean",
+    "score": -10.449999809265137
+  },
+  {
+    "pair_id": "1c5b39e25b1606c31795",
+    "label": 0,
+    "method": "clean",
+    "score": -10.58750057220459
+  },
+  {
+    "pair_id": "9a2f417cf73955f71462",
+    "label": 0,
+    "method": "clean",
+    "score": -10.4375
+  },
+  {
+    "pair_id": "e47b4f2d044ccdb99dd9",
+    "label": 0,
+    "method": "clean",
+    "score": -9.512499809265137
+  },
+  {
+    "pair_id": "0d1e6076f685b06576ac",
+    "label": 0,
+    "method": "clean",
+    "score": -10.699999809265137
+  },
+  {
+    "pair_id": "4004708470629a67c696",
+    "label": 0,
+    "method": "clean",
+    "score": -9.831250190734863
+  }
+]

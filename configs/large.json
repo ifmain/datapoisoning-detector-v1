@@ -1,0 +1,33 @@
+{
+  "name": "datapoisoning-detector-v1-large",
+  "seed": 20261002,
+  "width": 1024,
+  "depth": 20,
+  "patch_size": 128,
+  "active_size": 96,
+  "micro_batch": 4,
+  "accumulation": 4,
+  "epochs": 12,
+  "steps_per_epoch": 200,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.05,
+  "warmup_steps": 100,
+  "pair_loss_weight": 0.25,
+  "target_validation_fpr": 0.01,
+  "recovery_epochs": 2,
+  "variant": "large",
+  "heads": 16,
+  "status": "fresh_training_pending",
+  "parameters": {
+    "total": 296264065,
+    "trainable": 261838209,
+    "frozen": 34425856
+  },
+  "encoder_taps": [
+    1,
+    2,
+    3
+  ],
+  "architecture_revision": "three-early-taps-v2",
+  "dataset_revision": "detector_v3_no_celebahq"
+}

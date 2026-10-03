@@ -1,0 +1,5 @@
+{
+  "exact_tensor_equality": true,
+  "variant": "large",
+  "architecture": "three-early-taps-v2"
+}

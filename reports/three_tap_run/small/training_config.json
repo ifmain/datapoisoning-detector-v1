@@ -1,0 +1,47 @@
+{
+  "config": {
+    "name": "datapoisoning-detector-v1-small",
+    "seed": 20261002,
+    "width": 512,
+    "depth": 14,
+    "patch_size": 128,
+    "active_size": 96,
+    "micro_batch": 4,
+    "accumulation": 4,
+    "epochs": 12,
+    "steps_per_epoch": 200,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.05,
+    "warmup_steps": 100,
+    "pair_loss_weight": 0.25,
+    "target_validation_fpr": 0.01,
+    "recovery_epochs": 2,
+    "variant": "small",
+    "heads": 8,
+    "status": "fresh_training_pending",
+    "parameters": {
+      "total": 82635137,
+      "trainable": 48209281,
+      "frozen": 34425856
+    },
+    "encoder_taps": [
+      1,
+      2,
+      3
+    ],
+    "architecture_revision": "three-early-taps-v2",
+    "dataset_revision": "detector_v3_no_celebahq",
+    "teacher": "ifmain/datapoisoning-detector-v1-large",
+    "kd_weight": 0.5,
+    "temperature": 2.0
+  },
+  "parameters": {
+    "total": 82635137,
+    "trainable": 48209281,
+    "frozen": 34425856
+  },
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "torch": "2.13.0+cu130",
+  "precision": "VAE float32; trainable head autocast bfloat16; optimizer float32",
+  "pid": 760
+}

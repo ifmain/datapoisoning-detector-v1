@@ -1,0 +1,3 @@
+DataPoisoning Detector v1
+Copyright 2026 ifmain. Original software: Apache-2.0.
+Includes a frozen encoder derived from Black Forest Labs FLUX.2-klein-base-4B VAE, Apache-2.0, revision a3b4f4849157f664bdbc776fd7453c2783562f4d. Loaded through Hugging Face Diffusers (Apache-2.0). Third-party notices and licenses remain applicable. Research and dataset references are in REFERENCES.bib. Composite checkpoint rights are described separately in LICENSING.md / docs/LICENSING.md.
