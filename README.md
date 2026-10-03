@@ -13,6 +13,8 @@ Original diagrams for this release. Editable SVG versions: [architecture](assets
 
 [Code and training](https://github.com/ifmain/datapoisoning-detector-v1) · [Evaluation reports](https://github.com/ifmain/datapoisoning-detector-v1/tree/main/reports/three_tap_run)
 
+**Hugging Face models:** [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) · [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) · [Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small) · [Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny)
+
 Install with `pip install -e .` (or `pip install -r requirements.txt`). For figure rendering, install `pip install ".[plots]"`. See [installation verification](docs/INSTALLATION.md). Run `python scripts/predict.py image.png --model ../hf-large --device cuda`. Training: `python scripts/train.py --help`; optional distillation uses `--teacher`, `--kd-weight 0.5`, `--temperature 2`.
 
 The detector compares encoder blocks 1, 2 and 3 with the final posterior-mean representation of a frozen FLUX.2 VAE. Each stream is projected to an 8 × 8 token grid. The three early-to-final differences are fused with all four feature streams before transformer classification. Inputs are native-resolution 128 × 128 RGB crops with a central 96 × 96 active region. The VAE decoder and generative FLUX transformer are not used.
@@ -23,10 +25,10 @@ Image-level inference averages five crop logits. Scores are not calibrated proba
 
 | Variant | Total parameters | Trainable parameters | Status |
 |---|---:|---:|---:|
-| Large | 296,264,065 | 261,838,209 | Evaluated |
-| Medium | 182,722,433 | 148,296,577 | Evaluated |
-| Small | 82,635,137 | 48,209,281 | Evaluated |
-| Tiny | 43,280,257 | 8,854,401 | Evaluated |
+| [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) | 296,264,065 | 261,838,209 | Evaluated |
+| [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) | 182,722,433 | 148,296,577 | Evaluated |
+| [Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small) | 82,635,137 | 48,209,281 | Evaluated |
+| [Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny) | 43,280,257 | 8,854,401 | Evaluated |
 
 ## Model family comparison
 
@@ -34,7 +36,7 @@ Image-level inference averages five crop logits. Scores are not calibrated proba
 
 Percentage of protected images correctly detected. Higher is better.
 
-| Protection | Large | Medium | Small | Tiny |
+| Protection | [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) | [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) | [Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small) | [Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny) |
 |---|---:|---:|---:|---:|
 | Nightshade | 97.92% (47/48) | 95.83% (46/48) | **100.00% (48/48)** | 95.83% (46/48) |
 | Glaze | **95.45% (63/66)** | 93.94% (62/66) | **95.45% (63/66)** | **95.45% (63/66)** |
@@ -45,7 +47,7 @@ Percentage of protected images correctly detected. Higher is better.
 
 Percentage of clean images correctly accepted as clean. Higher is better. Each model uses its own validation-selected threshold on the same clean-control pool.
 
-| Evaluation pool | Large | Medium | Small | Tiny |
+| Evaluation pool | [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) | [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) | [Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small) | [Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny) |
 |---|---:|---:|---:|---:|
 | Shared clean controls | 99.1129% (1229/1240) | **99.2742% (1231/1240)** | 99.0323% (1228/1240) | 99.1129% (1229/1240) |
 
@@ -53,7 +55,7 @@ Percentage of clean images correctly accepted as clean. Higher is better. Each m
 
 All students use the newly trained three-tap Large teacher. No previous detector checkpoint is used. Teacher agreement measures matching decisions, not correctness.
 
-| Metric | Large | Medium | Small | Tiny |
+| Metric | [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) | [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) | [Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small) | [Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny) |
 |---|---:|---:|---:|---:|
 | Accuracy | 98.8935% | 98.7552% | 98.8935% | 98.8243% |
 | Recall | 97.5728% | 95.6311% | 98.0583% | 97.0874% |
@@ -66,10 +68,10 @@ All students use the newly trained three-tap Large teacher. No previous detector
 
 ## Published comparison
 
-| Large | Medium |
+| [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) | [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) |
 |:---:|:---:|
 | [![Large vs. LightShed](assets/published-comparison-large.png)](assets/published-comparison-large.png) | [![Medium vs. LightShed](assets/published-comparison-medium.png)](assets/published-comparison-medium.png) |
-| **Small** | **Tiny** |
+| **[Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small)** | **[Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny)** |
 | [![Small vs. LightShed](assets/published-comparison-small.png)](assets/published-comparison-small.png) | [![Tiny vs. LightShed](assets/published-comparison-tiny.png)](assets/published-comparison-tiny.png) |
 
 Click a figure to view it at full size. The numerical tables below report the **Large** model.
@@ -102,10 +104,10 @@ Published independent evaluations; bold marks the higher value in each row. Ligh
 
 | Variant | Detected / positive |
 |---|---:|
-| Large | 2/2 |
-| Medium | 1/2 |
-| Small | 2/2 |
-| Tiny | 2/2 |
+| [Large](https://huggingface.co/ifmain/datapoisoning-detector-v1-large) | 2/2 |
+| [Medium](https://huggingface.co/ifmain/datapoisoning-detector-v1-medium) | 1/2 |
+| [Small](https://huggingface.co/ifmain/datapoisoning-detector-v1-small) | 2/2 |
+| [Tiny](https://huggingface.co/ifmain/datapoisoning-detector-v1-tiny) | 2/2 |
 
 ## License and data provenance
 
