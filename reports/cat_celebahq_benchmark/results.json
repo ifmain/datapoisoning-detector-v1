@@ -1,0 +1,86 @@
+{
+  "small": {
+    "threshold": -0.7234374880790709,
+    "tp": 1470,
+    "fn": 330,
+    "fp": 0,
+    "tn": 200,
+    "recall": 0.8166666666666667,
+    "specificity": 1.0,
+    "accuracy": 0.835,
+    "per_method": {
+      "advdm+": 200,
+      "advdm-": 200,
+      "anti-dreambooth": 46,
+      "glaze2": 199,
+      "metacloak": 25,
+      "mist": 200,
+      "sds+": 200,
+      "sds-": 200,
+      "sdsT5": 200
+    }
+  },
+  "tiny": {
+    "threshold": -1.8132812976837156,
+    "tp": 1407,
+    "fn": 393,
+    "fp": 0,
+    "tn": 200,
+    "recall": 0.7816666666666666,
+    "specificity": 1.0,
+    "accuracy": 0.8035,
+    "per_method": {
+      "advdm+": 200,
+      "advdm-": 200,
+      "anti-dreambooth": 3,
+      "glaze2": 199,
+      "metacloak": 5,
+      "mist": 200,
+      "sds+": 200,
+      "sds-": 200,
+      "sdsT5": 200
+    }
+  },
+  "medium": {
+    "threshold": -1.1406249999999998,
+    "tp": 1532,
+    "fn": 268,
+    "fp": 0,
+    "tn": 200,
+    "recall": 0.8511111111111112,
+    "specificity": 1.0,
+    "accuracy": 0.866,
+    "per_method": {
+      "advdm+": 200,
+      "advdm-": 200,
+      "anti-dreambooth": 76,
+      "glaze2": 198,
+      "metacloak": 58,
+      "mist": 200,
+      "sds+": 200,
+      "sds-": 200,
+      "sdsT5": 200
+    }
+  },
+  "large": {
+    "threshold": -1.5164062976837156,
+    "tp": 1405,
+    "fn": 395,
+    "fp": 0,
+    "tn": 200,
+    "recall": 0.7805555555555556,
+    "specificity": 1.0,
+    "accuracy": 0.8025,
+    "per_method": {
+      "advdm+": 200,
+      "advdm-": 200,
+      "anti-dreambooth": 6,
+      "glaze2": 198,
+      "metacloak": 1,
+      "mist": 200,
+      "sds+": 200,
+      "sds-": 200,
+      "sdsT5": 200
+    }
+  }
+}
